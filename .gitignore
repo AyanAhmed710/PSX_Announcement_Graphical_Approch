@@ -1,0 +1,12 @@
+.claude/settings.local.json
+data/raw/
+data/processed/
+# PDFs are public and large (~430 MB); fetch with
+#   python -m src.extraction.make_gold_sample --download-only
+data/gold/pdfs/
+data/gold/examples/
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+~$*.xlsx

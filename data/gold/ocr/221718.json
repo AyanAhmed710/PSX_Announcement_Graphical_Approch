@@ -1,0 +1,32 @@
+{
+ "doc_id": "221718",
+ "n_pages_total": 30,
+ "n_pages_read": 3,
+ "pages": [
+  {
+   "page": 1,
+   "embedded_text": "",
+   "ocr_text": "HONDA\nHow we move you.\nThePowerof Dreams\nCREATETRANSCEND,AUGMENT\nDRIVING\nTOWARDS\nTHE\nFUTURE\nHR-V\nHALF YEAR REPORT | SEPTEMBER 2023\nHonda Atlas Cars (Pakistan) Limited",
+   "ocr_conf_mean": 0.9763,
+   "ocr_conf_min": 0.9448,
+   "n_lines": 11
+  },
+  {
+   "page": 2,
+   "embedded_text": "",
+   "ocr_text": "Cover Concept\nHONDA\nHow we moveyou.\nIhu Puwur ut Lreams\nIEA E + 1INLGENU, AUUMEh\nDRIVING\nTOWARDS\nTHE\nFUTURE\nHR-V\nHALFYEARREPORT|SEPTEMBER2023\nHonda Atlas Cars (Pakistan) Limited\nAs a futuristic Company we continue to map our\n 2023 journey towards driving innovation, pushing\nboundaries, and embracing change. Our team is\ndevotedly taking up the forward-thinking approach,\nthat will help continue us to achieve the goal to drive\ntowards a prosperous and cutting-edge future.",
+   "ocr_conf_mean": 0.9611,
+   "ocr_conf_min": 0.7019,
+   "n_lines": 18
+  },
+  {
+   "page": 3,
+   "embedded_text": "06\n01\n02\n07\n08\n09\n10\n11\n23\n24\nManagement / Company’s Structure\nReview Reports\nCondensed Interim Financial Statements\nCondensed Interim Statement of Financial Position\nCompany Information     \nChairman’s Review\nCondensed Interim Statement of Proﬁt or Loss\nCondensed Interim Statement of Comprehensive Income\nCondensed Interim Statement of Changes in Equity\nCondensed Interim Statement of Cash Flows\nNotes to and Forming Part of the Condensed Interim Financial \nStatements\nChairman’s Review (Urdu)\nHonda Dealers’ Network\n05\nIndependent Auditor’s Review Report\nDriving towards the \n \nFuture\nContents",
+   "ocr_text": "",
+   "ocr_conf_mean": 0.0,
+   "ocr_conf_min": 0.0,
+   "n_lines": 0,
+   "ocr_skipped": true
+  }
+ ]
+}

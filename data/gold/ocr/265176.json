@@ -1,0 +1,31 @@
+{
+ "doc_id": "265176",
+ "n_pages_total": 28,
+ "n_pages_read": 3,
+ "pages": [
+  {
+   "page": 1,
+   "embedded_text": "",
+   "ocr_text": "Corporate Briefing Session\nIMAGEPAKISTANLIMITED\nFOR THE YEAR 2025-26",
+   "ocr_conf_mean": 0.9792,
+   "ocr_conf_min": 0.9582,
+   "n_lines": 3
+  },
+  {
+   "page": 2,
+   "embedded_text": "AGENDA:\n1. ABOUT IMAGE\n2. PRODUCT PORTFOLIO\n3. INDUSTRY OVERVIEW\n4. FINANCIAL HIGHLIGHTS\n5. SUSTAINABILITY INITIATIVES\n6. FUTURE OUTLOOK",
+   "ocr_text": "AGENDA:\n1. ABOUT IMAGE\nPRODUCT PORTFOLIO\n3.\nINDUSTRYOVERVIEW\nFINANCIAL HIGHLIGHTS\n5.SUSTAINABILITYINITIATIVES\n6.FUTURE OUTLOOK",
+   "ocr_conf_mean": 0.9828,
+   "ocr_conf_min": 0.9297,
+   "n_lines": 8
+  },
+  {
+   "page": 3,
+   "embedded_text": "",
+   "ocr_text": "About Image - vision,\nMission, Values\nImagePakistan Limited envisionsbecoming a leading\nfashionretailbrandthatbenefitsallstakeholderswhile\nfulfilling itscorporatesocial responsibility obligations.\nThemissionisrooted inacommitmenttoexcellence,\ncreativity,and innovation,seamlesslyblendingheritage\nwith contemporary aesthetics. Core values include\nintegrityreativity,ustainability,craftmanship,and\nfocusoncustomer-centeredgrowth,allofwhichguide\nthecompany'soperationsandstrategies.",
+   "ocr_conf_mean": 0.9549,
+   "ocr_conf_min": 0.7985,
+   "n_lines": 11
+  }
+ ]
+}

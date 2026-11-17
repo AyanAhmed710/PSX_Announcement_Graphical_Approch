@@ -1,0 +1,32 @@
+{
+ "doc_id": "248967",
+ "n_pages_total": 24,
+ "n_pages_read": 3,
+ "pages": [
+  {
+   "page": 1,
+   "embedded_text": "",
+   "ocr_text": "B\nBESTWAY\nBESTWAYCEMENTLIMITED\nHALFYEARLY\nREPORT\n2024\nBUILDINGONSTRENGTH",
+   "ocr_conf_mean": 0.9902,
+   "ocr_conf_min": 0.9685,
+   "n_lines": 7
+  },
+  {
+   "page": 2,
+   "embedded_text": "BESTWAY CEMENT LIMITED\nBUILDING ON STRENGTH",
+   "ocr_text": "B\nBESTWAY\nBESTWAYCEMENTLIMITED\nBUILDINGONSTRENGTH",
+   "ocr_conf_mean": 0.9908,
+   "ocr_conf_min": 0.9815,
+   "n_lines": 4
+  },
+  {
+   "page": 3,
+   "embedded_text": "2\n4\n6\n9\n10\n11\n12\nCompany Information\nDirectors’ Report\nIndependent Auditors Review Report\nCondensed Interim Statement of Financial Position\nCondensed Interim Statement of Proﬁt or Loss (Un-audited)\nCondensed Interim Statement of Proﬁt or Loss and other\nComprehensive Income (Un-audited)\nCondensed Interim Statement of Changes in Equity\nCondensed Interim Statement of Cash Flows (Un-audited)\nNotes to the Condensed Interim Financial Statements\n(Un-audited)\n20\n8",
+   "ocr_text": "",
+   "ocr_conf_mean": 0.0,
+   "ocr_conf_min": 0.0,
+   "n_lines": 0,
+   "ocr_skipped": true
+  }
+ ]
+}

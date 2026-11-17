@@ -1,0 +1,32 @@
+{
+ "doc_id": "264466",
+ "n_pages_total": 22,
+ "n_pages_read": 3,
+ "pages": [
+  {
+   "page": 1,
+   "embedded_text": "BESTWAY CEMENT LIMITED\n1ST QUARTER REPORT\n2025-26",
+   "ocr_text": "B\nBESTWAY\nBESTWAY CEMENT LIMITED\n1ST QUARTER REPORT\n2025-26",
+   "ocr_conf_mean": 0.977,
+   "ocr_conf_min": 0.9328,
+   "n_lines": 5
+  },
+  {
+   "page": 2,
+   "embedded_text": "BESTWAY CEMENT LIMITED\nBUILDING ON STRENGTH",
+   "ocr_text": "B\nBESTWAY\nBESTWAYCEMENTLIMITED\nBUILDING ON STRENGTH",
+   "ocr_conf_mean": 0.988,
+   "ocr_conf_min": 0.983,
+   "n_lines": 4
+  },
+  {
+   "page": 3,
+   "embedded_text": "1\n2\n4\n6\nCompany Information\nDirectors’ Report\nStatement of Financial Position\nStatement of Proﬁt or Loss\nStatement of Proﬁt or Loss and other \nComprehensive Income\nStatement of Changes in Equity\nStatement of Cash Flows\nNotes to the Financial Statements\nCONTENTS\nTABLE OF\n8\n7\n9\n10\n18",
+   "ocr_text": "",
+   "ocr_conf_mean": 0.0,
+   "ocr_conf_min": 0.0,
+   "n_lines": 0,
+   "ocr_skipped": true
+  }
+ ]
+}

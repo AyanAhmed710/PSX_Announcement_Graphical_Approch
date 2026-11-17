@@ -1,0 +1,400 @@
+{"doc_id": "128032", "event_type": "AGM_EGM", "note": "cover letter enclosing EGM notice", "details": null, "confidence": "high"}
+{"doc_id": "242988", "event_type": "OTHER", "confidence": "medium", "note": "reply to PSX on non-transmission of annual accounts / non-holding of AGM (tariff delay); regulatory correspondence", "details": null}
+{"doc_id": "209330", "event_type": "BOARD_MEETING", "note": "emergent board meeting to consider increase in authorized capital; closed period", "details": null, "confidence": "high"}
+{"doc_id": "259101", "event_type": "AGM_EGM", "note": "special resolutions passed at EGM (Reko Diq funding commitment)", "details": null, "confidence": "high"}
+{"doc_id": "185213", "event_type": "BOARD_MEETING", "note": "board meeting to consider Q3 accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "229295", "event_type": "BOARD_MEETING", "note": "board meeting to consider 9M accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "188846", "event_type": "EXEC_CHANGE", "details": {"changes": [{"person": "Waqar Ahmed Malik", "role": "DIRECTOR", "action": "APPOINTED", "effective_date": "2022-06-24"}, {"person": "Nadeem Inayat", "role": "DIRECTOR", "action": "APPOINTED", "effective_date": "2022-06-24"}, {"person": "Ahmad Mahmood Hayat", "role": "DIRECTOR", "action": "APPOINTED", "effective_date": "2022-06-24"}, {"person": "Faheem Haider", "role": "DIRECTOR", "action": "APPOINTED", "effective_date": "2022-06-24"}, {"person": "Adnan Afridi", "role": "DIRECTOR", "action": "APPOINTED", "effective_date": "2022-06-24"}, {"person": "Abid Niaz Hasan", "role": "DIRECTOR", "action": "APPOINTED", "effective_date": "2022-06-24"}, {"person": "Seema Adil", "role": "DIRECTOR", "action": "APPOINTED", "effective_date": "2022-06-24"}]}, "confidence": "medium", "note": "EGM resolution whose only business is election of 7 directors -> EXEC_CHANGE per guideline G2"}
+{"doc_id": "242432", "event_type": "AGM_EGM", "note": "notice of 69th AGM", "details": null, "confidence": "high"}
+{"doc_id": "187389", "event_type": "BOARD_MEETING", "note": "board meeting to approve annual accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "128785", "event_type": "BOARD_MEETING", "note": "board meeting for Q1 accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "154756", "event_type": "AGM_EGM", "confidence": "medium", "note": "AGM resolutions incl. final cash dividend Rs 1/share approval; primary purpose = AGM resolutions (G2)", "details": null}
+{"doc_id": "260067", "event_type": "AGM_EGM", "note": "notice of 63rd AGM (agenda includes final dividend approval)", "details": null, "confidence": "high"}
+{"doc_id": "273934", "event_type": "BOOK_CLOSURE", "note": "newspaper clipping: book closure for sub-division of shares (Rs10 -> 2x Rs5)", "details": null, "confidence": "high"}
+{"doc_id": "212858", "event_type": "BUYBACK", "note": "completion of purchase period for buy-back of 5,000,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "268753", "event_type": "BOOK_CLOSURE", "note": "book closure for KE Sukuk-5 profit payment", "details": null, "confidence": "high"}
+{"doc_id": "243667", "event_type": "BOARD_MEETING", "note": "board meeting to approve company plan 2025; closed period", "details": null, "confidence": "high"}
+{"doc_id": "110105", "event_type": "BOOK_CLOSURE", "note": "share transfer book closure ahead of AGM", "details": null, "confidence": "high"}
+{"doc_id": "269731", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Confiz Limited", "counterparty_symbol": null, "kind": "MERGER", "direction": "ACQUIRER", "stake_pct": null, "stage": "BOARD_APPROVED"}, "confidence": "medium", "note": "EGM notice whose only special business is amalgamation of Confiz Limited into Systems Limited under scheme of arrangement (G2 exception); board approved 2025-12-10, court-ordered EGM pending"}
+{"doc_id": "191264", "event_type": "BOOK_CLOSURE", "note": "closure of sukuk transfer books (5th issue profit payment) notified to CDC", "details": null, "confidence": "high"}
+{"doc_id": "155307", "event_type": "BOOK_CLOSURE", "note": "reopening of register of members after closure; dividend warrants to be dispatched", "details": null, "confidence": "high"}
+{"doc_id": "136799", "event_type": "BOARD_MEETING", "note": "board meeting for Q1 accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "137092", "event_type": "BOARD_MEETING", "note": "board meeting for annual accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "174337", "event_type": "BOOK_CLOSURE", "note": "reopening of register of members; dividend warrants to be dispatched", "details": null, "confidence": "high"}
+{"doc_id": "168369", "event_type": "BOARD_MEETING", "note": "change in time of board meeting (annual budget)", "details": null, "confidence": "high"}
+{"doc_id": "125016", "event_type": "BOOK_CLOSURE", "note": "final book closure KEAZM Sukuk-3", "details": null, "confidence": "high"}
+{"doc_id": "118882", "event_type": "AGM_EGM", "note": "notice of AGM", "details": null, "confidence": "high"}
+{"doc_id": "216127", "event_type": "AGM_EGM", "note": "notice of AGM", "details": null, "confidence": "high"}
+{"doc_id": "202515", "event_type": "BUYBACK", "note": "public announcement of buy-back of shares (cover letter)", "details": null, "confidence": "high"}
+{"doc_id": "173013", "event_type": "AGM_EGM", "confidence": "medium", "note": "application for extension in period of holding AGM FY2020-21", "details": null}
+{"doc_id": "119946", "event_type": "BOARD_MEETING", "note": "board meeting for Q1 accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "254848", "event_type": "BOOK_CLOSURE", "note": "book closure for sub-division of shares (Rs10 -> 5x Rs2)", "details": null, "confidence": "high"}
+{"doc_id": "198248", "event_type": "AGM_EGM", "confidence": "medium", "note": "second extension in period of holding AGM (SECP direction)", "details": null}
+{"doc_id": "244044", "event_type": "BOOK_CLOSURE", "note": "newspaper ad: book closure for profit payment of BOP ADT-1 TFC", "details": null, "confidence": "high"}
+{"doc_id": "166800", "event_type": "BOOK_CLOSURE", "note": "closure of sukuk transfer books (3rd issue, 7th profit payment)", "details": null, "confidence": "high"}
+{"doc_id": "164795", "event_type": "AGM_EGM", "confidence": "medium", "note": "AGM resolutions; incl. final dividend Rs 210.89/share declared (G2 -> AGM_EGM)", "details": null}
+{"doc_id": "200186", "event_type": "BUYBACK", "note": "CDC confirms cancellation of 200,000,000 shares bought back", "details": null, "confidence": "high"}
+{"doc_id": "206841", "event_type": "AGM_EGM", "note": "notice of EGM to elect 7 directors (upcoming election, no change yet)", "details": null, "confidence": "high"}
+{"doc_id": "270546", "event_type": "BOARD_MEETING", "note": "board meeting for half-year accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "154922", "event_type": "BOARD_MEETING", "note": "board meeting for Q1 accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "271969", "event_type": "AGM_EGM", "note": "notice of EGM (book closure for attendance included)", "details": null, "confidence": "high"}
+{"doc_id": "209255", "event_type": "BOOK_CLOSURE", "note": "book closure for 13th profit payment of TFC-VII", "details": null, "confidence": "high"}
+{"doc_id": "167806", "event_type": "AGM_EGM", "note": "notice of AGM 2021 (agenda: cash dividend Rs 4.52)", "details": null, "confidence": "high"}
+{"doc_id": "188616", "event_type": "BUYBACK", "note": "daily buy-back purchase: 200,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "187929", "event_type": "BUYBACK", "note": "daily buy-back purchase: 2,000,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "188323", "event_type": "BUYBACK", "note": "daily buy-back purchase: 310,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "187493", "event_type": "BUYBACK", "note": "submission of public announcement for buy-back", "details": null, "confidence": "high"}
+{"doc_id": "188574", "event_type": "BUYBACK", "note": "daily buy-back purchase: 390,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "189468", "event_type": "BUYBACK", "note": "public announcement after completion of buy-back", "details": null, "confidence": "high"}
+{"doc_id": "274765", "event_type": "BOOK_CLOSURE", "note": "book closure KE Sukuk-6 profit payment", "details": null, "confidence": "high"}
+{"doc_id": "174336", "event_type": "BOARD_MEETING", "note": "board meeting for Q3 accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "141352", "event_type": "AGM_EGM", "confidence": "medium", "note": "EGM notice: equity investment up to US$30.6m in subsidiary Long March Tyres (investment, not M&A)", "details": null}
+{"doc_id": "274976", "event_type": "BOARD_MEETING", "note": "board meeting for annual accounts / entitlement; closed period", "details": null, "confidence": "high"}
+{"doc_id": "288570", "event_type": "BOOK_CLOSURE", "note": "book closure Faysal Bank Tier II sukuk first profit payment", "details": null, "confidence": "high"}
+{"doc_id": "208365", "event_type": "BOOK_CLOSURE", "note": "closure of sukuk transfer books (3rd issue, 16th profit payment)", "details": null, "confidence": "high"}
+{"doc_id": "210576", "event_type": "AGM_EGM", "note": "cancellation of EGM (decided not to increase authorized capital)", "details": null, "confidence": "high"}
+{"doc_id": "188129", "event_type": "AGM_EGM", "note": "notice of 58th AGM (agenda incl. final dividend Rs 15)", "details": null, "confidence": "high"}
+{"doc_id": "237524", "event_type": "AGM_EGM", "note": "notice of AGM", "details": null, "confidence": "high"}
+{"doc_id": "189373", "event_type": "BUYBACK", "note": "completion of buy-back of 25,000,000 shares; public announcement", "details": null, "confidence": "high"}
+{"doc_id": "188708", "event_type": "BUYBACK", "note": "daily buy-back purchase: 1,000,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "188219", "event_type": "BUYBACK", "note": "daily buy-back purchase: 1,000,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "188658", "event_type": "BUYBACK", "note": "daily buy-back purchase: 5,405,197 shares", "details": null, "confidence": "high"}
+{"doc_id": "245096", "event_type": "CORP_BRIEFING", "note": "corporate briefing presentation 9M'24", "details": null, "confidence": "high"}
+{"doc_id": "285088", "event_type": "AGM_EGM", "note": "newspaper notice of AGM (no dividend recommended)", "details": null, "confidence": "high"}
+{"doc_id": "157394", "event_type": "BOOK_CLOSURE", "note": "book closure for 3rd profit payment of TFC-VII", "details": null, "confidence": "high"}
+{"doc_id": "232413", "event_type": "BOOK_CLOSURE", "note": "book closure for 17th profit payment of TFC-VII", "details": null, "confidence": "high"}
+{"doc_id": "137486", "event_type": "BOARD_MEETING", "note": "board meeting rescheduled (Q1 accounts); closed period", "details": null, "confidence": "high"}
+{"doc_id": "133347", "event_type": "BOARD_MEETING", "note": "board meeting for half-year accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "208429", "event_type": "BOARD_MEETING", "note": "board meeting in progress (matters other than results)", "details": null, "confidence": "high"}
+{"doc_id": "134170", "event_type": "BOARD_MEETING", "note": "board meeting for Q3 results; closed period", "details": null, "confidence": "high"}
+{"doc_id": "165162", "event_type": "BOARD_MEETING", "note": "board meeting for 9M accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "159370", "event_type": "BOOK_CLOSURE", "note": "book closure KE Sukuk-5 2nd profit payment", "details": null, "confidence": "high"}
+{"doc_id": "269268", "event_type": "BOOK_CLOSURE", "note": "book closure KE Sukuk-6 14th profit payment", "details": null, "confidence": "high"}
+{"doc_id": "187429", "event_type": "BUYBACK", "note": "EGM special resolution approving buy-back of up to 25m shares", "details": null, "confidence": "high"}
+{"doc_id": "239268", "event_type": "CORP_BRIEFING", "note": "corporate briefing session presentation 2023-24", "details": null, "confidence": "high"}
+{"doc_id": "192845", "event_type": "CORP_BRIEFING", "note": "corporate briefing session postponed", "details": null, "confidence": "high"}
+{"doc_id": "154865", "event_type": "BOARD_MEETING", "note": "board meeting for Q1 accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "196116", "event_type": "AGM_EGM", "note": "resolutions passed at 43rd AGM (accounts, auditors, related parties)", "details": null, "confidence": "high"}
+{"doc_id": "108418", "event_type": "BOARD_MEETING", "note": "board meeting for half-year accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "135781", "event_type": "AGM_EGM", "note": "notice of 152nd AGM", "details": null, "confidence": "high"}
+{"doc_id": "205420", "event_type": "BOOK_CLOSURE", "note": "revision of book closure dates for AGM", "details": null, "confidence": "high"}
+{"doc_id": "259678", "event_type": "AGM_EGM", "note": "newspaper advertisement of AGM notice", "details": null, "confidence": "high"}
+{"doc_id": "272464", "event_type": "CORP_BRIEFING", "note": "corporate briefing session 2026 (virtual)", "details": null, "confidence": "high"}
+{"doc_id": "208935", "event_type": "BUYBACK", "note": "public announcement: buy-back up to 23.8m shares (7.59%) for cancellation", "details": null, "confidence": "high"}
+{"doc_id": "188767", "event_type": "BUYBACK", "note": "daily buy-back purchase: 1,000,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "182123", "event_type": "BOOK_CLOSURE", "note": "closure of sukuk transfer books (5th issue, 4th profit payment)", "details": null, "confidence": "high"}
+{"doc_id": "161690", "event_type": "AGM_EGM", "note": "notice of 43rd AGM", "details": null, "confidence": "high"}
+{"doc_id": "165242", "event_type": "BOARD_MEETING", "note": "board meeting for quarterly accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "207917", "event_type": "CORP_BRIEFING", "note": "CBS presentation 9M FY23 (mentions 3rd interim dividend Rs 24.40)", "details": null, "confidence": "high"}
+{"doc_id": "190105", "event_type": "CORP_BRIEFING", "note": "CBS scheduled", "details": null, "confidence": "high"}
+{"doc_id": "161007", "event_type": "CORP_BRIEFING", "note": "CBS on 2020 annual results", "details": null, "confidence": "high"}
+{"doc_id": "265176", "event_type": "CORP_BRIEFING", "note": "CBS presentation 2025-26", "details": null, "confidence": "high"}
+{"doc_id": "289250", "event_type": "CORP_BRIEFING", "note": "dissemination of CBS video recording", "details": null, "confidence": "high"}
+{"doc_id": "142925", "event_type": "CORP_BRIEFING", "note": "CBS scheduled at PSX auditorium", "details": null, "confidence": "high"}
+{"doc_id": "281797", "event_type": "CORP_BRIEFING", "note": "CBS for FY ended June 30, 2026", "details": null, "confidence": "high"}
+{"doc_id": "219495", "event_type": "BUYBACK", "note": "newspaper public announcement: buy-back up to 15m shares (treasury)", "details": null, "confidence": "high"}
+{"doc_id": "178290", "event_type": "CORP_BRIEFING", "note": "CBS scheduled", "details": null, "confidence": "high"}
+{"doc_id": "161739", "event_type": "CORP_BRIEFING", "note": "analyst briefing details", "details": null, "confidence": "high"}
+{"doc_id": "219189", "event_type": "BUYBACK", "note": "public announcement for buy-back up to 15m shares (15.04%)", "details": null, "confidence": "high"}
+{"doc_id": "233128", "event_type": "CORP_BRIEFING", "note": "CBS presentation period ended March 31, 2024", "details": null, "confidence": "high"}
+{"doc_id": "288699", "event_type": "CORP_BRIEFING", "note": "dissemination of CBS video recording", "details": null, "confidence": "high"}
+{"doc_id": "220802", "event_type": "CORP_BRIEFING", "note": "CBS scheduled", "details": null, "confidence": "high"}
+{"doc_id": "169175", "event_type": "BOOK_CLOSURE", "note": "change of book closure period (dividend entitlement) due to Eid", "details": null, "confidence": "high"}
+{"doc_id": "265819", "event_type": "CORP_BRIEFING", "note": "CBS presentation Nov 2025", "details": null, "confidence": "high"}
+{"doc_id": "240570", "event_type": "CORP_BRIEFING", "note": "CBS presentation FY2024", "details": null, "confidence": "high"}
+{"doc_id": "252655", "event_type": "CORP_BRIEFING", "note": "CBS presentation April 2025", "details": null, "confidence": "high"}
+{"doc_id": "233174", "event_type": "CORP_BRIEFING", "note": "CBS scheduled via Zoom", "details": null, "confidence": "high"}
+{"doc_id": "130197", "event_type": "CORP_BRIEFING", "note": "CBS scheduled at PSX Lahore", "details": null, "confidence": "high"}
+{"doc_id": "221431", "event_type": "CORP_BRIEFING", "note": "submission of CBS presentation FY2023", "details": null, "confidence": "high"}
+{"doc_id": "279234", "event_type": "CREDIT_RATING", "confidence": "medium", "note": "PACRA maintained entity rating of Allied Bank (rating values not legible in OCR)", "details": null}
+{"doc_id": "167749", "event_type": "AGM_EGM", "confidence": "medium", "note": "AGM resolutions incl. final dividend Rs 28/share approved (G2)", "details": null}
+{"doc_id": "228541", "event_type": "BOOK_CLOSURE", "note": "book closure KE Sukuk-5 15th profit payment", "details": null, "confidence": "high"}
+{"doc_id": "234133", "event_type": "BOOK_CLOSURE", "note": "book closure KE Sukuk-5 16th profit payment", "details": null, "confidence": "high"}
+{"doc_id": "145868", "event_type": "BOARD_MEETING", "note": "board meeting for 9M accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "198991", "event_type": "CORP_BRIEFING", "note": "CBS via video link", "details": null, "confidence": "high"}
+{"doc_id": "273950", "event_type": "BOARD_MEETING", "note": "board meeting for quarterly accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "255733", "event_type": "AGM_EGM", "note": "EGM notice to elect 10 directors (upcoming election; retiring directors listed)", "details": null, "confidence": "high"}
+{"doc_id": "110352", "event_type": "BOARD_MEETING", "note": "board meeting for annual accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "283317", "event_type": "CORP_BRIEFING", "note": "CBS for FY ended June 30, 2026", "details": null, "confidence": "high"}
+{"doc_id": "168711", "event_type": "CREDIT_RATING", "note": "PACRA maintained ABL entity ratings AAA / A1+", "details": null, "confidence": "high"}
+{"doc_id": "115881", "event_type": "CREDIT_RATING", "note": "PACRA upgraded ABL long-term rating to AAA; short-term A1+", "details": null, "confidence": "high"}
+{"doc_id": "279484", "event_type": "CREDIT_RATING", "note": "PACRA upgraded HMB long-term rating AA+ -> AAA; short-term A1+", "details": null, "confidence": "high"}
+{"doc_id": "251006", "event_type": "BUYBACK", "note": "newspaper: completion of purchase period for buy-back of 12,000,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "250705", "event_type": "CORP_BRIEFING", "note": "CBS via Zoom", "details": null, "confidence": "high"}
+{"doc_id": "142163", "event_type": "BOOK_CLOSURE", "note": "closure of sukuk transfer books (3rd issue, 2nd profit payment)", "details": null, "confidence": "high"}
+{"doc_id": "288961", "event_type": "CORP_BRIEFING", "note": "notice of CBS 2026", "details": null, "confidence": "high"}
+{"doc_id": "112120", "event_type": "AGM_EGM", "note": "certified AGM resolutions (director remuneration)", "details": null, "confidence": "high"}
+{"doc_id": "210513", "event_type": "CORP_BRIEFING", "note": "CBS for period ended March 31, 2023", "details": null, "confidence": "high"}
+{"doc_id": "211884", "event_type": "CREDIT_RATING", "note": "PACRA maintained ABL entity rating AAA / A1+", "details": null, "confidence": "high"}
+{"doc_id": "136086", "event_type": "AGM_EGM", "note": "notice of AGM", "details": null, "confidence": "high"}
+{"doc_id": "180995", "event_type": "CORP_BRIEFING", "note": "CBS moved to virtual-only", "details": null, "confidence": "high"}
+{"doc_id": "212824", "event_type": "BUYBACK", "note": "completion of purchase period for buy-back of 5,000,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "210918", "event_type": "AGM_EGM", "confidence": "medium", "note": "application to SECP for extension to hold overdue AGM", "details": null}
+{"doc_id": "255750", "event_type": "CREDIT_RATING", "note": "PACRA maintained ABL entity rating AAA / A1+ (2025)", "details": null, "confidence": "high"}
+{"doc_id": "149588", "event_type": "CREDIT_RATING", "note": "PACRA maintained ABL entity ratings AAA / A1+ (2020)", "details": null, "confidence": "high"}
+{"doc_id": "208512", "event_type": "CREDIT_RATING", "note": "VIS reaffirmed ILP entity ratings A+/A-1", "details": null, "confidence": "high"}
+{"doc_id": "281093", "event_type": "CREDIT_RATING", "note": "VIS reaffirmed ILP entity ratings AA-/A1 (2026)", "details": null, "confidence": "high"}
+{"doc_id": "257443", "event_type": "CREDIT_RATING", "note": "VIS reaffirmed ILP entity ratings AA-/A1 (2025)", "details": null, "confidence": "high"}
+{"doc_id": "233576", "event_type": "CREDIT_RATING", "note": "PACRA maintained ABL entity rating AAA / A1+ (2024)", "details": null, "confidence": "high"}
+{"doc_id": "279462", "event_type": "CREDIT_RATING", "note": "PACRA upgraded BOP long-term AA+ -> AAA; short-term A1+", "details": null, "confidence": "high"}
+{"doc_id": "188103", "event_type": "BUYBACK", "note": "daily buy-back purchase: 1,500,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "255773", "event_type": "BOOK_CLOSURE", "note": "book closure for sub-division of shares (Rs10 -> Rs2)", "details": null, "confidence": "high"}
+{"doc_id": "180178", "event_type": "BOOK_CLOSURE", "confidence": "medium", "note": "revised book closure dates for interim cash dividend Rs 6.50 (65%) declared earlier", "details": null}
+{"doc_id": "189134", "event_type": "CREDIT_RATING", "note": "PACRA maintained ABL entity ratings AAA / A1+ (2022)", "details": null, "confidence": "high"}
+{"doc_id": "130651", "event_type": "OTHER", "confidence": "medium", "note": "exercise of call option (early redemption) of TFC issue + transfer book closure; primary = TFC redemption", "details": null}
+{"doc_id": "164478", "event_type": "BOARD_MEETING", "note": "REIT management company board meeting; closed period", "details": null, "confidence": "high"}
+{"doc_id": "132313", "event_type": "CREDIT_RATING", "note": "PACRA maintained ABL entity ratings AAA / A1+ (2019)", "details": null, "confidence": "high"}
+{"doc_id": "136220", "event_type": "BOARD_MEETING", "note": "board meeting for Q1 accounts; closed period", "details": null, "confidence": "high"}
+{"doc_id": "141328", "event_type": "DISCLOSURE_INTEREST", "note": "associated company Providus Capital bought 1,150,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "234221", "event_type": "CREDIT_RATING", "note": "VIS upgraded ILP entity ratings", "details": null, "confidence": "high"}
+{"doc_id": "165203", "event_type": "CREDIT_RATING", "note": "VIS assigned initial entity ratings A+/A-1 to ILP", "details": null, "confidence": "high"}
+{"doc_id": "258918", "event_type": "DISCLOSURE_INTEREST", "note": "associated company Yunus Textile Mills bought shares (7.85% cumulative)", "details": null, "confidence": "high"}
+{"doc_id": "233424", "event_type": "DISCLOSURE_INTEREST", "note": "associated company Lucky Exim sold 15,150 shares", "details": null, "confidence": "high"}
+{"doc_id": "188240", "event_type": "CREDIT_RATING", "note": "VIS reaffirmed ILP entity ratings A+/A-1 (2022)", "details": null, "confidence": "high"}
+{"doc_id": "178415", "event_type": "DISCLOSURE_INTEREST", "note": "associated company Yunus Textile Mills bought 90,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "231721", "event_type": "CREDIT_RATING", "note": "filed as 'material information' but content = VIS assigned A-/A-2 to THCCL (G7)", "details": null, "confidence": "high"}
+{"doc_id": "258022", "event_type": "DISCLOSURE_INTEREST", "note": "associated company Yunus Textile Mills bought shares", "details": null, "confidence": "high"}
+{"doc_id": "207285", "event_type": "CORP_BRIEFING", "note": "CBS rescheduled", "details": null, "confidence": "high"}
+{"doc_id": "192479", "event_type": "BUYBACK", "note": "public announcement for buy-back of shares (newspapers)", "details": null, "confidence": "high"}
+{"doc_id": "278131", "event_type": "CORP_BRIEFING", "note": "dissemination of CBS video link", "details": null, "confidence": "high"}
+{"doc_id": "245845", "event_type": "BOOK_CLOSURE", "note": "book closure KE Sukuk-5 18th profit payment", "details": null, "confidence": "high"}
+{"doc_id": "178500", "event_type": "DISCLOSURE_INTEREST", "note": "associated company Yunus Textile Mills bought 134,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "239713", "event_type": "BUYBACK", "note": "public announcement for buy-back of shares", "details": null, "confidence": "high"}
+{"doc_id": "258202", "event_type": "DISCLOSURE_INTEREST", "note": "associated company Yunus Textile Mills bought 40,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "259069", "event_type": "DISCLOSURE_INTEREST", "note": "associated company Yunus Textile Mills bought shares", "details": null, "confidence": "high"}
+{"doc_id": "133077", "event_type": "DISCLOSURE_INTEREST", "note": "associated company Providus Capital sold 1,000,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "242049", "event_type": "DISCLOSURE_INTEREST", "confidence": "medium", "note": "auditor's assurance report on statement of free float of shares", "details": null}
+{"doc_id": "144730", "event_type": "DISCLOSURE_INTEREST", "note": "associated company Providus Capital sold shares", "details": null, "confidence": "high"}
+{"doc_id": "256240", "event_type": "DISCLOSURE_INTEREST", "note": "YB Pakistan sold 500,000 shares", "details": null, "confidence": "high"}
+{"doc_id": "259221", "event_type": "DISCLOSURE_INTEREST", "note": "associated company Yunus Textile Mills bought shares", "details": null, "confidence": "high"}
+{"doc_id": "123018", "event_type": "BOOK_CLOSURE", "note": "book closure for 9th profit payment/redemption of MCB TFC2", "details": null, "confidence": "high"}
+{"doc_id": "241056", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.4 substantial shareholder dealing in Agritech shares", "details": null}
+{"doc_id": "135202", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.1(d) substantial shareholder (Aberdeen) acquisition 12.23%", "details": null}
+{"doc_id": "111375", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.1(d) executive spouse share sales", "details": null}
+{"doc_id": "151044", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.4 associated company purchase", "details": null}
+{"doc_id": "272440", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.4 relevant person purchase", "details": null}
+{"doc_id": "109733", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.1(d) executive share purchases", "details": null}
+{"doc_id": "268906", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "associated company share sales", "details": null}
+{"doc_id": "235690", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.4 associated company purchase", "details": null}
+{"doc_id": "213851", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 4.5, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": null, "fiscal_year": 2023, "book_closure_from": "2023-09-07", "book_closure_to": "2023-09-11"}, "confidence": "medium", "note": "book-closure notice for a declared interim dividend; BOOK_CLOSURE also plausible"}
+{"doc_id": "183920", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 30.0, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": 2, "fiscal_year": null, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "credit of 2nd interim, quarter ended 2021-12-31; fiscal year not stated"}
+{"doc_id": "182684", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "executive share sale in closed period", "details": null}
+{"doc_id": "277012", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 2.5, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": null, "fiscal_year": 2026, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "credit of interim dividend"}
+{"doc_id": "263399", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 9.0, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": 3, "fiscal_year": 2025, "book_closure_from": "2025-11-03", "book_closure_to": "2025-11-05"}, "confidence": "high", "note": "3rd interim declared, advertisement text"}
+{"doc_id": "171431", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "substantial shareholder purchase 5.6.1(d)", "details": null}
+{"doc_id": "184340", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 5.0, "unit": "RS_PER_SHARE", "period": "FINAL", "interim_number": null, "fiscal_year": 2021, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "credit of final dividend"}
+{"doc_id": "221043", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 3.98, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": 3, "fiscal_year": 2023, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "credit of 3rd interim; OCR garbled part of sentence"}
+{"doc_id": "279318", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Rafhan Maize Products Company Limited", "counterparty_symbol": "RMPL", "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": 51.04, "stage": "COMPLETED"}, "confidence": "medium", "note": "filed as material info/disclosure of interest; Nishat group consortium incl. company acquired 51.04% of RMPL (G7)"}
+{"doc_id": "279323", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Rafhan Maize Products Company Limited", "counterparty_symbol": "RMPL", "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": 51.04, "stage": "COMPLETED"}, "confidence": "medium", "note": "same consortium acquisition as 279318 (G7)"}
+{"doc_id": "277230", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 3.5, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": 1, "fiscal_year": 2026, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "credit of 1st interim"}
+{"doc_id": "250230", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 8.0, "unit": "RS_PER_SHARE", "period": "FINAL", "interim_number": null, "fiscal_year": 2024, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "credit of final dividend"}
+{"doc_id": "280954", "event_type": "OTHER", "confidence": "medium", "note": "final notice to claim unclaimed dividends/shares; no new payout (G4)", "details": null}
+{"doc_id": "197700", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 10.0, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": 2, "fiscal_year": 2022, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "payment of 2nd interim"}
+{"doc_id": "141476", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "substantial shareholder (Aberdeen) holding 11.11%", "details": null}
+{"doc_id": "241299", "event_type": "OTHER", "confidence": "medium", "note": "reply to PSX letter clarifying ex-executive spouse status on PUCARS; regulatory correspondence (G8), titled disclosure of interest", "details": null}
+{"doc_id": "218289", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 15.0, "unit": "RS_PER_SHARE", "period": "FINAL", "interim_number": null, "fiscal_year": 2023, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "credit of final dividend FY 2022-23"}
+{"doc_id": "272740", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 3.0, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": 2, "fiscal_year": 2025, "book_closure_from": null, "book_closure_to": null}, "confidence": "medium", "note": "credit of 2nd interim; doc states year ending Dec 31 2025 (as printed)"}
+{"doc_id": "132569", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 1.25, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": null, "fiscal_year": 2019, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "credit of interim dividend"}
+{"doc_id": "128821", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": null, "unit": null, "period": "FINAL", "interim_number": null, "fiscal_year": 2018, "book_closure_from": null, "book_closure_to": null}, "confidence": "medium", "note": "newspaper clippings of credit of final dividend; amount unreadable (bad OCR)"}
+{"doc_id": "162752", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 0.33, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": null, "fiscal_year": null, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "REIT credit of interim dividend, per unit, quarter ended 2020-12-31"}
+{"doc_id": "276557", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 4.0, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": 3, "fiscal_year": null, "book_closure_from": "2026-05-12", "book_closure_to": "2026-05-14"}, "confidence": "high", "note": "3rd interim declared + book closure"}
+{"doc_id": "132472", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 0.33, "unit": "RS_PER_SHARE", "period": "FINAL", "interim_number": null, "fiscal_year": 2019, "book_closure_from": "2019-08-19", "book_closure_to": "2019-08-25"}, "confidence": "high", "note": "REIT final dividend declared, per unit"}
+{"doc_id": "231253", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 1.5, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": null, "fiscal_year": 2024, "book_closure_from": "2024-05-10", "book_closure_to": "2024-05-14"}, "confidence": "high", "note": "interim dividend declaration + book closure"}
+{"doc_id": "197711", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 4.0, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": 3, "fiscal_year": 2022, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "disbursement of 3rd interim"}
+{"doc_id": "142603", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "director share purchase 5.6.1(d)", "details": null}
+{"doc_id": "167917", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 5.0, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": null, "fiscal_year": 2021, "book_closure_from": "2021-07-13", "book_closure_to": "2021-07-19"}, "confidence": "high", "note": "interim dividend declared"}
+{"doc_id": "270144", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 2.0, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": 2, "fiscal_year": null, "book_closure_from": "2026-02-27", "book_closure_to": "2026-03-03"}, "confidence": "high", "note": "2nd interim on ordinary shares (Rs1 on preference); quarter ended 2025-12-31"}
+{"doc_id": "109914", "event_type": "OTHER", "confidence": "medium", "note": "notice to claim unclaimed dividends/shares; no new payout (G4)", "details": null}
+{"doc_id": "247787", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 0.5, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": null, "fiscal_year": null, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "credit of interim, half year ended 2024-12-31"}
+{"doc_id": "214606", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 4.0, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": null, "fiscal_year": 2023, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "publication of credit-of-interim notices"}
+{"doc_id": "220880", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 7.5, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": 1, "fiscal_year": 2024, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "credit of 1st interim FY2023-24"}
+{"doc_id": "272820", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 35.0, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": 1, "fiscal_year": 2026, "book_closure_from": "2026-03-30", "book_closure_to": "2026-04-01"}, "confidence": "high", "note": "1st interim declared"}
+{"doc_id": "156806", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 1.0, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": null, "fiscal_year": null, "book_closure_from": "2020-11-13", "book_closure_to": "2020-11-20"}, "confidence": "high", "note": "interim dividend + book closure notice, period ended 2020-09-30"}
+{"doc_id": "214288", "event_type": "EXEC_CHANGE", "details": {"changes": [{"person": "Naved Abid Khan", "role": "DIRECTOR", "action": "RESIGNED", "effective_date": "2023-09-01"}, {"person": "Shauzab Ali", "role": "DIRECTOR", "action": "APPOINTED", "effective_date": "2023-09-01"}]}, "confidence": "high", "note": "filed as material information; in-place-of change"}
+{"doc_id": "276815", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 1.5, "unit": "RS_PER_SHARE", "period": "INTERIM", "interim_number": null, "fiscal_year": null, "book_closure_from": "2026-05-06", "book_closure_to": "2026-05-07"}, "confidence": "medium", "note": "withholding notice for declared interim dividend, quarter ended 2026-03-31"}
+{"doc_id": "279322", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Rafhan Maize Products Company Limited", "counterparty_symbol": "RMPL", "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": 51.04, "stage": "COMPLETED"}, "confidence": "medium", "note": "same Nishat consortium acquisition as 279318 (G7)"}
+{"doc_id": "172777", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 24.0, "unit": "RS_PER_SHARE", "period": "FINAL", "interim_number": null, "fiscal_year": 2021, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "credit of final dividend"}
+{"doc_id": "262014", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": 4.0, "unit": "RS_PER_SHARE", "period": "FINAL", "interim_number": null, "fiscal_year": 2025, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "credit of final dividend"}
+{"doc_id": "177218", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.4 sponsor share purchase", "details": null}
+{"doc_id": "256173", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.4 director share sale", "details": null}
+{"doc_id": "144396", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.1(d) director purchase", "details": null}
+{"doc_id": "187980", "event_type": "EXEC_CHANGE", "details": {"changes": [{"person": "Zafar Ali Shah", "role": "DIRECTOR", "action": "RESIGNED", "effective_date": "2022-05-30"}]}, "confidence": "high", "note": "filed as material information"}
+{"doc_id": "147591", "event_type": "EXEC_CHANGE", "details": {"changes": [{"person": "Iqtidar Saeed", "role": "DIRECTOR", "action": "REMOVED", "effective_date": null}]}, "confidence": "medium", "note": "'ceased to be' director (no ceased action in schema -> REMOVED); OCR scrambled line order"}
+{"doc_id": "176999", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.4 sponsor share purchase", "details": null}
+{"doc_id": "227393", "event_type": "EXEC_CHANGE", "details": {"changes": [{"person": "Muhammad Aurangzeb", "role": "CEO", "action": "RESIGNED", "effective_date": null}, {"person": "Muhammad Nassir Salim", "role": "CEO", "action": "APPOINTED", "effective_date": null}]}, "confidence": "high", "note": "President & CEO change, subject to SBP approval"}
+{"doc_id": "241707", "event_type": "EXEC_CHANGE", "details": {"changes": [{"person": "Mazhar Abbas Hasnani", "role": "DIRECTOR", "action": "APPOINTED", "effective_date": "2024-10-30"}, {"person": "Tariq Qaddus", "role": "DIRECTOR", "action": "RESIGNED", "effective_date": "2024-10-30"}]}, "confidence": "medium", "note": "in place of -> Y RESIGNED per template rule"}
+{"doc_id": "233468", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.4 substantial shareholder purchase", "details": null}
+{"doc_id": "153419", "event_type": "DISCLOSURE_INTEREST", "confidence": "medium", "note": "reports interim bonus shares allotted to directors/executives; bonus itself announced earlier", "details": null}
+{"doc_id": "201404", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.4 substantial shareholder purchase", "details": null}
+{"doc_id": "231406", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.4 CEO/senior mgmt purchases", "details": null}
+{"doc_id": "175333", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "executive purchase", "details": null}
+{"doc_id": "194828", "event_type": "EXEC_CHANGE", "details": {"changes": [{"person": "Huseyin Ozsan Ozbas", "role": "DIRECTOR", "action": "RESIGNED", "effective_date": "2022-10-13"}, {"person": "Oliver Engels", "role": "DIRECTOR", "action": "APPOINTED", "effective_date": "2022-10-14"}]}, "confidence": "high", "note": "non-executive director replaced"}
+{"doc_id": "147069", "event_type": "TRANSMISSION_REPORT", "confidence": "medium", "note": "quarterly un-audited accounts document itself (G6)", "details": null}
+{"doc_id": "246382", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "5.6.4 executive sale", "details": null}
+{"doc_id": "150340", "event_type": "EXEC_CHANGE", "details": {"changes": [{"person": "Mueen Afzal", "role": "CHAIRMAN", "action": "APPOINTED", "effective_date": "2020-07-27"}, {"person": "Isphanyar M. Bhandara", "role": "CEO", "action": "APPOINTED", "effective_date": "2020-07-27"}]}, "confidence": "high", "note": "CEO re-appointed after election"}
+{"doc_id": "213278", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "substantial shareholder sold preference shares", "details": null}
+{"doc_id": "125737", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "advisor's spouse purchase 5.6.1(d)", "details": null}
+{"doc_id": "236372", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "senior management purchases", "details": null}
+{"doc_id": "140676", "event_type": "AGM_EGM", "confidence": "medium", "note": "s.159(4) notice of director election at upcoming EGM; 8 uncontested candidates deemed elected from 2019-12-31 (G2: notice stays AGM_EGM; EXEC_CHANGE arguable)", "details": null}
+{"doc_id": "224320", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "COO purchase", "details": null}
+{"doc_id": "273243", "event_type": "EXEC_CHANGE", "details": {"changes": [{"person": "Muhammad Zubair Haider Shaikh", "role": "INDEPENDENT_DIRECTOR", "action": "RESIGNED", "effective_date": "2026-03-30"}]}, "confidence": "high", "note": ""}
+{"doc_id": "272025", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "annual report 2025 (249 pages)", "details": null}
+{"doc_id": "191261", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "half-year financial statements", "details": null}
+{"doc_id": "158268", "event_type": "BOARD_MEETING", "confidence": "high", "note": "board meeting other than financial results (budget) + closed period", "details": null}
+{"doc_id": "285107", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "senior management purchase", "details": null}
+{"doc_id": "143910", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "half-yearly accounts", "details": null}
+{"doc_id": "248967", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "half-yearly report", "details": null}
+{"doc_id": "205304", "event_type": "AGM_EGM", "confidence": "medium", "note": "s.159(4) notice; candidates deemed elected at upcoming AGM (G2 notice)", "details": null}
+{"doc_id": "174679", "event_type": "EXEC_CHANGE", "details": {"changes": [{"person": "Shahid Salim Khan", "role": "CEO", "action": "RESIGNED", "effective_date": "2021-10-20"}, {"person": "Khalid Siraj Subhani", "role": "CEO", "action": "APPOINTED", "effective_date": "2021-10-20"}]}, "confidence": "high", "note": "MD/CEO change; successor on acting basis"}
+{"doc_id": "175210", "event_type": "FINANCIAL_RESULT", "confidence": "high", "note": "Q1 results, no entitlement", "details": null}
+{"doc_id": "172009", "event_type": "FINANCIAL_RESULT", "confidence": "high", "note": "annual results; final cash dividend Rs2 noted (G4)", "details": null}
+{"doc_id": "270985", "event_type": "FINANCIAL_RESULT", "confidence": "high", "note": "half-year results", "details": null}
+{"doc_id": "202883", "event_type": "FINANCIAL_RESULT", "confidence": "high", "note": "half-year results; interim Rs5.75 noted (G4)", "details": null}
+{"doc_id": "275027", "event_type": "FINANCIAL_RESULT", "confidence": "high", "note": "9M results", "details": null}
+{"doc_id": "161298", "event_type": "FINANCIAL_RESULT", "confidence": "high", "note": "annual results; final Rs3 noted (G4)", "details": null}
+{"doc_id": "280398", "event_type": "FINANCIAL_RESULT", "confidence": "high", "note": "half-year results", "details": null}
+{"doc_id": "236804", "event_type": "FINANCIAL_RESULT", "confidence": "high", "note": "annual results", "details": null}
+{"doc_id": "146390", "event_type": "FINANCIAL_RESULT", "confidence": "high", "note": "Q3 results", "details": null}
+{"doc_id": "216178", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "annual report 2023", "details": null}
+{"doc_id": "133946", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "half-year condensed financial statements", "details": null}
+{"doc_id": "156578", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "1st quarterly report", "details": null}
+{"doc_id": "288191", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "quarterly condensed financial info", "details": null}
+{"doc_id": "275963", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "Q1 financial statements", "details": null}
+{"doc_id": "186422", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "nine-months report", "details": null}
+{"doc_id": "141958", "event_type": "BOARD_MEETING", "confidence": "medium", "note": "outcome of board meeting other than results: no price-sensitive info", "details": null}
+{"doc_id": "129090", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Engro Corporation Limited", "counterparty_symbol": "ENGRO", "kind": "DISPOSAL", "direction": null, "stake_pct": 100.0, "stage": "BOARD_APPROVED"}, "confidence": "medium", "note": "board resolved to sell 100% of subsidiary Engro Eximp FZE to Engro Corp for PKR 1.76bn; schema has no SELLER direction"}
+{"doc_id": "251220", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": null, "counterparty_symbol": null, "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": null, "stage": "INTENT"}, "confidence": "medium", "note": "non-binding offer for unnamed pharma company"}
+{"doc_id": "229101", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "MOU to form entity with associated companies", "details": null}
+{"doc_id": "267714", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Pakistan International Airlines Corporation Limited", "counterparty_symbol": null, "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": 75.0, "stage": "INTENT"}, "confidence": "medium", "note": "AHCL consortium highest bidder in PIA privatisation, pending approvals"}
+{"doc_id": "214222", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "half-year condensed financial statements", "details": null}
+{"doc_id": "138458", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "Q3 report", "details": null}
+{"doc_id": "224323", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "refinery turnaround shutdown", "details": null}
+{"doc_id": "178059", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "receipt of receivables from power purchaser", "details": null}
+{"doc_id": "286796", "event_type": "FINANCIAL_RESULT", "confidence": "high", "note": "Q1 results, nil dividend", "details": null}
+{"doc_id": "254894", "event_type": "MATERIAL_INFO", "confidence": "medium", "note": "cover letter; content in annexure not read", "details": null}
+{"doc_id": "227821", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "SBP NOC for exchange company", "details": null}
+{"doc_id": "283289", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "solar plant supply agreement", "details": null}
+{"doc_id": "230762", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "9M condensed interim financial info; director list ignored", "details": null}
+{"doc_id": "118527", "event_type": "EXEC_CHANGE", "details": {"changes": [{"person": "Hassan Nasir Jamy", "role": "DIRECTOR", "action": "RESIGNED", "effective_date": null}]}, "confidence": "high", "note": ""}
+{"doc_id": "241194", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "quarterly report", "details": null}
+{"doc_id": "132357", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "FBR provisional attachment of sponsors' shares", "details": null}
+{"doc_id": "179700", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "solar power purchase agreement", "details": null}
+{"doc_id": "277646", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "SEZ land allocation", "details": null}
+{"doc_id": "161039", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Tri-Pack Films Limited", "counterparty_symbol": "TRIPF", "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": 19.33, "stage": "INTENT"}, "confidence": "high", "note": "desire to buy Mitsubishi's 19.33% under first right of refusal (G7)"}
+{"doc_id": "253806", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "capacity expansion update (Iraq)", "details": null}
+{"doc_id": "209479", "event_type": "MATERIAL_INFO", "confidence": "medium", "note": "board recommends authorized capital increase; EOGM called (AGM_EGM arguable)", "details": null}
+{"doc_id": "208359", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Lotte Chemical Pakistan Limited", "counterparty_symbol": "LOTCHEM", "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": 75.01, "stage": "BOARD_APPROVED"}, "confidence": "medium", "note": "SPA assigned to wholly owned subsidiary; transaction not yet completed"}
+{"doc_id": "165777", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "US FDA facility registration", "details": null}
+{"doc_id": "149645", "event_type": "AGM_EGM", "confidence": "medium", "note": "filed as material info; reconvening adjourned EGM for director election (G2)", "details": null}
+{"doc_id": "198954", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "framework agreement for project", "details": null}
+{"doc_id": "208532", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "JV clinker capacity expansion", "details": null}
+{"doc_id": "212282", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "board authorises exploring microfinance investment", "details": null}
+{"doc_id": "213126", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Balochistan Glass Limited", "counterparty_symbol": "BGL", "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": 7.8279, "stage": "INTENT"}, "confidence": "medium", "note": "public offer for up to 7.83% + joint control, plus 50% of holding co MMM Holding (84.34% of BGL)"}
+{"doc_id": "233399", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "circular debt settlement of PHL TFCs", "details": null}
+{"doc_id": "272284", "event_type": "MATERIAL_INFO", "confidence": "medium", "note": "cover letter; content in annexure not read", "details": null}
+{"doc_id": "161287", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "new cement plant approved", "details": null}
+{"doc_id": "156976", "event_type": "FINANCIAL_RESULT", "confidence": "high", "note": "Q1 results", "details": null}
+{"doc_id": "116479", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Inner Mongolia Yili Industrial Group Company Limited", "counterparty_symbol": null, "kind": "ACQUISITION", "direction": "TARGET", "stake_pct": 51.0, "stage": "INTENT"}, "confidence": "high", "note": "public announcement of intention by potential acquirer"}
+{"doc_id": "131534", "event_type": "DISCLOSURE_INTEREST", "confidence": "medium", "note": "s.110(3) disclosure of additional shares in ORIX Leasing (12.18% holding); MERGER_ACQUISITION arguable", "details": null}
+{"doc_id": "181060", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Telenor Microfinance Bank Limited", "counterparty_symbol": null, "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": 55.0, "stage": "INTENT"}, "confidence": "high", "note": "SBP in-principle approval to start due diligence"}
+{"doc_id": "116858", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "CEO share sale", "details": null}
+{"doc_id": "256343", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Rafhan Maize Products Company Limited", "counterparty_symbol": "RMPL", "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": 75.69, "stage": "INTENT"}, "confidence": "high", "note": "corrigendum to public announcement of intention (with Shirazi Investments)"}
+{"doc_id": "178678", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Askari Cement Limited", "counterparty_symbol": null, "kind": "MERGER", "direction": "ACQUIRER", "stake_pct": null, "stage": "BOARD_APPROVED"}, "confidence": "high", "note": "draft scheme of amalgamation of ACL into FCCL (G2b -> MERGER)"}
+{"doc_id": "195708", "event_type": "MATERIAL_INFO", "confidence": "medium", "note": "suit filed vs alleged concert parties exceeding 30%", "details": null}
+{"doc_id": "239751", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Agritech Limited", "counterparty_symbol": "AGL", "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": 27.77, "stage": "COMPLETED"}, "confidence": "high", "note": "s.110 disclosure of acquisition, holding now 27.77%"}
+{"doc_id": "257270", "event_type": "BOOK_CLOSURE", "confidence": "medium", "note": "book closure under takeover regs for PTA Global Holding public offer (company is target); MERGER_ACQUISITION arguable", "details": null}
+{"doc_id": "152478", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Askari Securities Limited", "counterparty_symbol": null, "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": 26.0, "stage": "COMPLETED"}, "confidence": "high", "note": "acquired remaining 26% from AWT, now 100%"}
+{"doc_id": "131476", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Colgate-Palmolive Company", "counterparty_symbol": null, "kind": "ACQUISITION", "direction": "TARGET", "stake_pct": 21.0, "stage": "INTENT"}, "confidence": "high", "note": "parent's intention to acquire up to 21%"}
+{"doc_id": "262236", "event_type": "MATERIAL_INFO", "confidence": "medium", "note": "farm-in for 20% working interest in offshore block from PPL (asset, not equity); MERGER_ACQUISITION arguable", "details": null}
+{"doc_id": "251180", "event_type": "MATERIAL_INFO", "confidence": "medium", "note": "sponsor ended talks on sale of its portfolio; company not a party", "details": null}
+{"doc_id": "141574", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "individual became substantial shareholder (10.05%)", "details": null}
+{"doc_id": "240235", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Arif Habib Limited", "counterparty_symbol": "AHL", "kind": "MERGER", "direction": "ACQUIRER", "stake_pct": null, "stage": "COURT_SANCTIONED"}, "confidence": "high", "note": "scheme: demerger of AHL non-core business and amalgamation into AHCL sanctioned by SHC"}
+{"doc_id": "243073", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Arif Habib Limited", "counterparty_symbol": "AHL", "kind": "MERGER", "direction": "ACQUIRER", "stake_pct": null, "stage": "COMPLETED"}, "confidence": "medium", "note": "credit of swap shares under the scheme"}
+{"doc_id": "254828", "event_type": "BOOK_CLOSURE", "confidence": "medium", "note": "book closure under takeover regs for Greentree Holdings offer (company is target); MERGER_ACQUISITION arguable", "details": null}
+{"doc_id": "117651", "event_type": "MATERIAL_INFO", "confidence": "medium", "note": "farm-in for PEL's 41.18% working interest in block (asset, not equity); MERGER_ACQUISITION arguable", "details": null}
+{"doc_id": "251532", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "IWT Investments", "counterparty_symbol": null, "kind": "ACQUISITION", "direction": "TARGET", "stake_pct": null, "stage": "INTENT"}, "confidence": "medium", "note": "public announcement of intention to acquire >50% and control; OCR jumbled"}
+{"doc_id": "133397", "event_type": "BUYBACK", "confidence": "high", "note": "buy-back completion: payment, cancellation of 45.375m shares", "details": null}
+{"doc_id": "224186", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "fund became substantial shareholder (>10%)", "details": null}
+{"doc_id": "285683", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Shifa Medical Centre Islamabad (Pvt.) Limited", "counterparty_symbol": null, "kind": "MERGER", "direction": "ACQUIRER", "stake_pct": null, "stage": "COMPLETED"}, "confidence": "high", "note": "swap shares credited; SMCI dissolved"}
+{"doc_id": "246928", "event_type": "BOOK_CLOSURE", "confidence": "medium", "note": "book closure under takeover regs for Greentree Holdings offer (company is target)", "details": null}
+{"doc_id": "264253", "event_type": "TRANSMISSION_REPORT", "confidence": "medium", "note": "notice that Q3 financial statements placed on website", "details": null}
+{"doc_id": "285711", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Shifa Medical Centre Islamabad (Pvt.) Limited", "counterparty_symbol": null, "kind": "MERGER", "direction": "ACQUIRER", "stake_pct": null, "stage": "COMPLETED"}, "confidence": "high", "note": "swap shares credited + newspaper notice"}
+{"doc_id": "133316", "event_type": "OTHER", "confidence": "high", "note": "change of share registrar", "details": null}
+{"doc_id": "142643", "event_type": "OTHER", "confidence": "medium", "note": "clarification of news item on CEO FPT clearance", "details": null}
+{"doc_id": "217391", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Balochistan Glass Limited", "counterparty_symbol": "BGL", "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": null, "stage": "BOARD_APPROVED"}, "confidence": "medium", "note": "public offer below minimum acceptance; proceeding with SPA for 50% of MMM Holding (holds 84.34% of BGL)"}
+{"doc_id": "247328", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Asia Pak Investments Limited", "counterparty_symbol": null, "kind": "ACQUISITION", "direction": "TARGET", "stake_pct": 75.01, "stage": "INTENT"}, "confidence": "high", "note": "public announcement of intention (with Montage Oil DMCC)"}
+{"doc_id": "207405", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Sanofi-Aventis Pakistan Limited", "counterparty_symbol": "SAPL", "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": 41.07, "stage": "COMPLETED"}, "confidence": "high", "note": "35% via SPA + 6.07% via tender offer; consortium took 52.87%"}
+{"doc_id": "224149", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Shanghai Electric Power Company Limited", "counterparty_symbol": null, "kind": "ACQUISITION", "direction": "TARGET", "stake_pct": 66.4, "stage": "INTENT"}, "confidence": "high", "note": "extension of public announcement of offer timeline"}
+{"doc_id": "126154", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "two exploration blocks awarded", "details": null}
+{"doc_id": "235957", "event_type": "OTHER", "confidence": "high", "note": "TFC holder list and profit statement", "details": null}
+{"doc_id": "287884", "event_type": "TRANSMISSION_REPORT", "confidence": "medium", "note": "notice that Q3 financial statements placed on website", "details": null}
+{"doc_id": "123242", "event_type": "DIVIDEND", "details": {"kind": "CASH", "amount": null, "unit": null, "period": "INTERIM", "interim_number": 2, "fiscal_year": 2018, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "dispatch of 2nd interim; amount not stated"}
+{"doc_id": "192540", "event_type": "DIVIDEND", "details": {"kind": "BONUS", "amount": 10.0, "unit": "PERCENT", "period": null, "interim_number": null, "fiscal_year": null, "book_closure_from": null, "book_closure_to": null}, "confidence": "high", "note": "publication of credit of 10% bonus shares"}
+{"doc_id": "276223", "event_type": "OTHER", "confidence": "high", "note": "Shariah compliance disclosures", "details": null}
+{"doc_id": "261752", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "executive share sale", "details": null}
+{"doc_id": "117723", "event_type": "MATERIAL_INFO", "confidence": "medium", "note": "monthly production/sales data filed as inside information", "details": null}
+{"doc_id": "172773", "event_type": "BOARD_MEETING", "confidence": "high", "note": "board meeting still in progress", "details": null}
+{"doc_id": "115852", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "director spouse gift of shares", "details": null}
+{"doc_id": "212594", "event_type": "BUYBACK", "confidence": "high", "note": "daily buy-back report", "details": null}
+{"doc_id": "191592", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Sanofi-Aventis Pakistan Limited", "counterparty_symbol": "SAPL", "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": 6.07, "stage": "COMPLETED"}, "confidence": "high", "note": "public offer obligations fulfilled"}
+{"doc_id": "268852", "event_type": "MATERIAL_INFO", "confidence": "medium", "note": "capital injection in subsidiary via its rights issue (not company's own rights issue)", "details": null}
+{"doc_id": "160232", "event_type": "EXEC_CHANGE", "details": {"changes": [{"person": "Mohammad Naeem Mukhtar", "role": "CEO", "action": "APPOINTED", "effective_date": "2021-01-28"}, {"person": "Sheikh Mukhtar Ahmad", "role": "CHAIRMAN", "action": "APPOINTED", "effective_date": "2021-01-28"}]}, "confidence": "high", "note": "board composition list ignored"}
+{"doc_id": "204358", "event_type": "BUYBACK", "confidence": "high", "note": "daily buy-back report", "details": null}
+{"doc_id": "245469", "event_type": "OTHER", "confidence": "high", "note": "reply to PSX enquiry on news", "details": null}
+{"doc_id": "219962", "event_type": "MATERIAL_INFO", "confidence": "high", "note": "plant shutdown extended", "details": null}
+{"doc_id": "251217", "event_type": "OTHER", "confidence": "medium", "note": "clarification of news report (G8); MATERIAL_INFO arguable", "details": null}
+{"doc_id": "179342", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "credit of right shares in CDS", "details": null}
+{"doc_id": "109313", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "credit of right shares", "details": null}
+{"doc_id": "163145", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "rights subscription status 99.78%", "details": null}
+{"doc_id": "230073", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "rights subscription result + allotment of unsubscribed", "details": null}
+{"doc_id": "163526", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "credit of right shares", "details": null}
+{"doc_id": "224235", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "draft offer document for rights issue", "details": null}
+{"doc_id": "172074", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "NOC request for release of rights subscription money", "details": null}
+{"doc_id": "174024", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "credit of right shares", "details": null}
+{"doc_id": "124240", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "credit of right shares", "details": null}
+{"doc_id": "169345", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "board declares 75% rights issue + book closure", "details": null}
+{"doc_id": "140776", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "85% rights subscription 98.6%", "details": null}
+{"doc_id": "187524", "event_type": "RIGHTS_ISSUE", "confidence": "medium", "note": "progress report on use of rights proceeds", "details": null}
+{"doc_id": "117123", "event_type": "RIGHTS_ISSUE", "confidence": "medium", "note": "PSX letter allowing extension for credit of right shares", "details": null}
+{"doc_id": "134719", "event_type": "RIGHTS_ISSUE", "confidence": "medium", "note": "revised book closure for 85% rights issue; BOOK_CLOSURE arguable", "details": null}
+{"doc_id": "231918", "event_type": "MERGER_ACQUISITION", "details": {"counterparty": "Samba Bank Limited", "counterparty_symbol": "SBL", "kind": "ACQUISITION", "direction": "ACQUIRER", "stake_pct": 84.51, "stage": "INTENT"}, "confidence": "high", "note": "SBP approval to start due diligence"}
+{"doc_id": "218780", "event_type": "BUYBACK", "confidence": "high", "note": "daily buy-back report", "details": null}
+{"doc_id": "108502", "event_type": "DISCLOSURE_INTEREST", "confidence": "high", "note": "associated company share purchase", "details": null}
+{"doc_id": "288162", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "quarterly financial statements", "details": null}
+{"doc_id": "288061", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "Q1 condensed interim financial statements", "details": null}
+{"doc_id": "276157", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "quarterly financial statements", "details": null}
+{"doc_id": "288231", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "Q1 financial statements", "details": null}
+{"doc_id": "160373", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "quarterly report", "details": null}
+{"doc_id": "252072", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "nine-months accounts", "details": null}
+{"doc_id": "221718", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "half-year report", "details": null}
+{"doc_id": "264466", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "Q1 report", "details": null}
+{"doc_id": "186694", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "quarterly report", "details": null}
+{"doc_id": "186434", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "cover letter transmitting quarterly report", "details": null}
+{"doc_id": "151569", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "half-yearly report", "details": null}
+{"doc_id": "182781", "event_type": "TRANSMISSION_REPORT", "confidence": "medium", "note": "half-year directors report / interim statements", "details": null}
+{"doc_id": "159846", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "credit of right shares", "details": null}
+{"doc_id": "145778", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "rights subscription status 73.4%", "details": null}
+{"doc_id": "146527", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "NOC request for release of rights subscription money", "details": null}
+{"doc_id": "150014", "event_type": "RIGHTS_ISSUE", "confidence": "medium", "note": "quarterly progress report on use of rights proceeds", "details": null}
+{"doc_id": "147391", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "credit of right shares", "details": null}
+{"doc_id": "165878", "event_type": "RIGHTS_ISSUE", "confidence": "medium", "note": "quarterly progress report on use of rights proceeds", "details": null}
+{"doc_id": "213744", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "rights offer document", "details": null}
+{"doc_id": "191418", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "287820", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "288007", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "274621", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "275425", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "207458", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "186510", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "258895", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "165870", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "276379", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "265065", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "189430", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "219356", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "206315", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "258395", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "137831", "event_type": "TRANSMISSION_REPORT", "confidence": "medium", "note": "periodic report / transmission letter; OCR mostly garbled", "details": null}
+{"doc_id": "265068", "event_type": "TRANSMISSION_REPORT", "confidence": "high", "note": "periodic report / transmission letter", "details": null}
+{"doc_id": "159488", "event_type": "RIGHTS_ISSUE", "confidence": "high", "note": "rights subscription status", "details": null}
+{"doc_id": "224401", "event_type": "EXEC_CHANGE", "details": {"changes": [{"person": "Mohammad Naeem Mukhtar", "role": "CEO", "action": "APPOINTED", "effective_date": "2024-01-29"}, {"person": "Sheikh Mukhtar Ahmad", "role": "CHAIRMAN", "action": "APPOINTED", "effective_date": "2024-01-29"}]}, "confidence": "high", "note": "re-appointment for new 3-year tenure; board list ignored"}

@@ -1,0 +1,32 @@
+{
+ "doc_id": "143910",
+ "n_pages_total": 18,
+ "n_pages_read": 3,
+ "pages": [
+  {
+   "page": 1,
+   "embedded_text": "BIBOJEE GROUP\n WOOLLEN MILLS LIMITED\nHalf Yearly\nAccounts\nDecember, \n2019\nBANNU",
+   "ocr_text": "Half Yearly\nAccounts\nDecember,\n2019\nBIBOJEEGROUP\n5\nBANNU\nWOOLLEN MILLS LIMITED",
+   "ocr_conf_mean": 0.927,
+   "ocr_conf_min": 0.5002,
+   "n_lines": 8
+  },
+  {
+   "page": 2,
+   "embedded_text": "BANNU WOOLEN MILLS LIMITED\nCONTENTS\nCOMPANY’S PROFILE .........................................................1\nDIRECTORS’ REPORT (English &        ) ...............................2-4\nBALANCE SHEET..................................................................6\nPROFIT & LOSS ACCOUNT..................................................7\nSTATEMENT OF CHANGES IN EQUITY ..............................8\nSELECTED NOTES TO THE ACCOUNTS ............................10-15\n \nPages\nCASH FLOW STATEMENT....................................................9\nAUDITORS’ REVIEW REPORT.............................................5",
+   "ocr_text": "",
+   "ocr_conf_mean": 0.0,
+   "ocr_conf_min": 0.0,
+   "n_lines": 0,
+   "ocr_skipped": true
+  },
+  {
+   "page": 3,
+   "embedded_text": "BANNU WOOLEN MILLS LIMITED\n1\nRegistered Oﬃce & Mills\nVision Consulting Limited\n3-c, Lda Flats, 1st Floor, Lawrance \nRoad, Lahore\nTel: 042-36283096-97, Fax: 042-36312550\nEmail: Info@vcl.com.pk",
+   "ocr_text": "BANNUWOOLENMILLSLIMITED\nCOMPANY'SPROFILE\nBoard OfDirectors\nMr.Ahmad Kuli Khan Khattak\nChairman\nMrs.Shahnaz Sajad Ahmad\nChief Executive\nLt Gen(Retd)Ali Kuli Khan Khattak\nMr.MushtaqAhmadKhan,FCA\nMr. Gohar Ayub Khan\nSyed Zubair Ahmed Shah (NIT)\nMr.Abdul RehmanQureshi (Independent)\nBrig(R)Agha Arshad Raza\nMr. Muhammad Kuli Khan Khattak\nAudit Committee\nMr.AbdulRehmanQureshi\nChairman\nMr.AhmadKuliKhanKhattak\nMember\nBrig(R) Agha Arshad Raza\nMember\nHuman Resource&\nMr.Abdul Rehman Qureshi\nChairman\nRemunerationCommittee\nMrs.Shahnaz Sajjad Ahmad\nMember\nMr.AhmadKuliKhanKhattak\nMember\nChief Financial Officer\nMr.A.R. Tahir\nChief Operating Officer(COO)\nCompanySecretary\nMr.Azher lqbal-ACA\nHeadOfInternalAudit\nMr.Salman Khan-ACA\nAuditors\nM/S.ShineWingHameedChaudhri&Co\nCharteredAccountants\nBankers\nNational BankOfPakistan\nBankAlfalahLtd\nLegal Adviser\nM/SHassan&Hassan,Advocates\nPaaf Building,1-D,Kashmir/EgertonRoad,Lahore\nTax Consultant\nM.Nawaz Khan & Co\n1-Ground Floor, Farrah Centre, 2 Mozang Road, Lahore\nRegistrars&Shares\nVision Consulting Limited\nRegistration Office\n3-c, Lda Flats, 1st Floor, Lawrance\nRoad,Lahore\nTel:042-36283096-97,Fax:042-36312550\nEmail: Info@vcl.com.pk\nRegistered Office&Mills\nBannu Woollen Mills Ltd\nD.l.Khan Road,Bannu\nTel.(0928) 615131,611350\nFax.(0928) 611450\nE-Mail bannuwoollen@yahoo.com\nWebSite:www.bwm.com.pk\n1",
+   "ocr_conf_mean": 0.9839,
+   "ocr_conf_min": 0.9373,
+   "n_lines": 63
+  }
+ ]
+}

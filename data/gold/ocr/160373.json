@@ -1,0 +1,33 @@
+{
+ "doc_id": "160373",
+ "n_pages_total": 21,
+ "n_pages_read": 3,
+ "pages": [
+  {
+   "page": 1,
+   "embedded_text": "2020\nQuarterly Report December 31,\n2020",
+   "ocr_text": "AtlasHonda\nQuarterly Report December 31,\n2020",
+   "ocr_conf_mean": 0.9907,
+   "ocr_conf_min": 0.9755,
+   "n_lines": 3
+  },
+  {
+   "page": 2,
+   "embedded_text": "Table of Contents\nCompany Information \n2 \n \n \nChairman’s Review (English) \n4\nChairman’s Review (Urdu) \n7\nCondensed Interim Statement of Financial Position \n8 \nCondensed Interim Statement of Profit or Loss and Other Comprehensive Income 9 \n \n \nCondensed Interim Statement of Changes in Equity \n10 \n \n \nCondensed Interim Statement of Cash Flows \n11 \n \n \nNotes to the Condensed Interim Financial Statements \n12",
+   "ocr_text": "",
+   "ocr_conf_mean": 0.0,
+   "ocr_conf_min": 0.0,
+   "n_lines": 0,
+   "ocr_skipped": true
+  },
+  {
+   "page": 3,
+   "embedded_text": "QUARTERLY REPORT DECEMBER 2020\n02\nCompany Information\nSaquib H. Shirazi\nMember\nFaisal Iqbal\nSecretary\nManagement \nSaquib H. Shirazi\nChief Executive Officer\nAfaq Ahmed\nVice President Marketing \nYukitoshi Fujisaka\nVice President Technical\nHirofumi Yada\nGeneral Manager Technical\nKhawaja Shujauddin\nGeneral Manager Commercial & Planning\nKashif Yasin\nChief Financial Officer \nFaisal Iqbal\nGeneral Manager Human Resources &                  \n Administration\nFaisal Mahmud\nGeneral Manager New Model Center\nMuhammad Noman Khan\nGeneral Manager Engineering & Projects\nMuhammad Tahir Nazir\nGeneral Manager Production, Planning &\n Control\nMuhammad Qadeer Khan\nGeneral Manager Plants\nMuhammad Zafar Iqbal\nGeneral Manager After Sales \nMujahid-ul-Mulk Butt\nGeneral Manager Sales\nSyed Tanvir Hyder\nGeneral Manager Supply Chain & Systems\nZia Ul Hassan Khan\nGeneral Manager Quality Assurance\nBoard of Directors\nAamir H. Shirazi\nChairman \nSanaullah Qureshi \nDirector \nAbid Naqvi\nDirector \nMashmooma Zehra Majeed \nDirector\nRyo Takahashi\nDirector \nYukitoshi Fujisaka\nDirector\nHirofumi Yada\nDirector\nSaquib H. Shirazi\nChief Executive Officer\nMarrium Ahmed\nCompany Secretary\nAudit Committee\nAbid Naqvi\nChairman \nSanaullah Qureshi\nMember\nMashmooma Zehra Majeed\nMember \nMuhammad Iqbal\nHead of Internal Audit\nMarrium Ahmed\nSecretary\nHuman Resource & \nRemuneration Committee\nAbid Naqvi\nChairman\nSanaullah Qureshi\nMember",
+   "ocr_text": "",
+   "ocr_conf_mean": 0.0,
+   "ocr_conf_min": 0.0,
+   "n_lines": 0,
+   "ocr_skipped": true
+  }
+ ]
+}

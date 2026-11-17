@@ -1,0 +1,14 @@
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+tenacity>=8.2
+tqdm>=4.66
+pandas>=2.0
+# PDF text + OCR
+pymupdf>=1.24
+rapidocr_onnxruntime>=1.4
+# evaluation / review sheet / EDA
+rapidfuzz>=3.0
+scikit-learn>=1.4
+openpyxl>=3.1
+matplotlib>=3.8

@@ -1,0 +1,32 @@
+{
+ "doc_id": "233128",
+ "n_pages_total": 22,
+ "n_pages_read": 3,
+ "pages": [
+  {
+   "page": 1,
+   "embedded_text": "CORPORATE BRIEFING SESSION\nFOR THE PERIOD ENDED MARCH 31, \n2024",
+   "ocr_text": "?SO\nCORPORATE BRIEFING SESSION\nFORTHE PERIOD ENDED MARCH 31,\n2024\nPakistan State Oil",
+   "ocr_conf_mean": 0.9166,
+   "ocr_conf_min": 0.6832,
+   "n_lines": 5
+  },
+  {
+   "page": 2,
+   "embedded_text": "COMPANY BRIEF\n2",
+   "ocr_text": "PSO\nCOMPANY BRIEF\n2",
+   "ocr_conf_mean": 0.9747,
+   "ocr_conf_min": 0.9607,
+   "n_lines": 3
+  },
+  {
+   "page": 3,
+   "embedded_text": "Company Profile \nPakistan State Oil Company Ltd. is serving the nation as an innovative and dynamic Energy Company which is\ndelivering value to the customers since 1976.\n3\nINFRASTRUCTURE\nOver 3500 retail outlets \nspread across Pakistan\n(30 company operated \nretail outlets.)\n9 Installations, 19 \nDepots & 14 Aviation \nStations\nacross Pakistan.\nTotal storage capacity of \n1.23 MMTs approx. \n2 Lubricant \nManufacturing Facilities \nwith a single shift \nblending capacity of 70 \nKMTs p.a.\nISO certified Mobile \nQuality Testing Units to \nensure high quality \nstandard fuel to \ncustomers.\nMost sophisticated and \ntech-oriented card \nnetwork in Pakistan\nNon-Fuel related facilities at retail \noutlets including Shop Stops, \nATMs, Oil Change, Car Wash, \nQuick Service Restaurants etc.",
+   "ocr_text": "",
+   "ocr_conf_mean": 0.0,
+   "ocr_conf_min": 0.0,
+   "n_lines": 0,
+   "ocr_skipped": true
+  }
+ ]
+}

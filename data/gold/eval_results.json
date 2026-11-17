@@ -1,0 +1,856 @@
+{
+ "reference": "LLM proposals (not yet human-verified)",
+ "n_docs": 400,
+ "splits": {
+  "test": 250,
+  "dev": 150
+ },
+ "type_dev_v1": {
+  "accuracy": 0.787,
+  "macro_f1": 0.762,
+  "per_class": {
+   "AGM_EGM": {
+    "precision": 1.0,
+    "recall": 0.846,
+    "f1": 0.917,
+    "support": 13
+   },
+   "BOARD_MEETING": {
+    "precision": 1.0,
+    "recall": 0.909,
+    "f1": 0.952,
+    "support": 11
+   },
+   "BOOK_CLOSURE": {
+    "precision": 1.0,
+    "recall": 0.917,
+    "f1": 0.957,
+    "support": 12
+   },
+   "BUYBACK": {
+    "precision": 1.0,
+    "recall": 0.9,
+    "f1": 0.947,
+    "support": 10
+   },
+   "CORP_BRIEFING": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 11
+   },
+   "CREDIT_RATING": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 7
+   },
+   "DISCLOSURE_INTEREST": {
+    "precision": 0.818,
+    "recall": 0.529,
+    "f1": 0.643,
+    "support": 17
+   },
+   "DIVIDEND": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 11
+   },
+   "EXEC_CHANGE": {
+    "precision": 0.2,
+    "recall": 0.5,
+    "f1": 0.286,
+    "support": 4
+   },
+   "FINANCIAL_RESULT": {
+    "precision": 0.3,
+    "recall": 1.0,
+    "f1": 0.462,
+    "support": 3
+   },
+   "MATERIAL_INFO": {
+    "precision": 0.636,
+    "recall": 0.636,
+    "f1": 0.636,
+    "support": 11
+   },
+   "MERGER_ACQUISITION": {
+    "precision": 0.667,
+    "recall": 0.462,
+    "f1": 0.545,
+    "support": 13
+   },
+   "OTHER": {
+    "precision": 0.222,
+    "recall": 1.0,
+    "f1": 0.364,
+    "support": 2
+   },
+   "RIGHTS_ISSUE": {
+    "precision": 0.889,
+    "recall": 1.0,
+    "f1": 0.941,
+    "support": 8
+   },
+   "TRANSMISSION_REPORT": {
+    "precision": 1.0,
+    "recall": 0.647,
+    "f1": 0.786,
+    "support": 17
+   }
+  }
+ },
+ "type_dev_v2": {
+  "accuracy": 0.927,
+  "macro_f1": 0.896,
+  "per_class": {
+   "AGM_EGM": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 13
+   },
+   "BOARD_MEETING": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 11
+   },
+   "BOOK_CLOSURE": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 12
+   },
+   "BUYBACK": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 10
+   },
+   "CORP_BRIEFING": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 11
+   },
+   "CREDIT_RATING": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 7
+   },
+   "DISCLOSURE_INTEREST": {
+    "precision": 0.895,
+    "recall": 1.0,
+    "f1": 0.944,
+    "support": 17
+   },
+   "DIVIDEND": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 11
+   },
+   "EXEC_CHANGE": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.667,
+    "support": 4
+   },
+   "FINANCIAL_RESULT": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 3
+   },
+   "MATERIAL_INFO": {
+    "precision": 0.7,
+    "recall": 0.636,
+    "f1": 0.667,
+    "support": 11
+   },
+   "MERGER_ACQUISITION": {
+    "precision": 0.889,
+    "recall": 0.615,
+    "f1": 0.727,
+    "support": 13
+   },
+   "OTHER": {
+    "precision": 0.333,
+    "recall": 1.0,
+    "f1": 0.5,
+    "support": 2
+   },
+   "RIGHTS_ISSUE": {
+    "precision": 0.889,
+    "recall": 1.0,
+    "f1": 0.941,
+    "support": 8
+   },
+   "TRANSMISSION_REPORT": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 17
+   }
+  }
+ },
+ "forecast_dev_v2": {
+  "accuracy": 0.927,
+  "macro_f1": 0.882,
+  "per_class": {
+   "AGM_EGM": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 13
+   },
+   "BOARD_MEETING": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 11
+   },
+   "CORP_BRIEFING": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 11
+   },
+   "DISCLOSURE_INTEREST": {
+    "precision": 0.895,
+    "recall": 1.0,
+    "f1": 0.944,
+    "support": 17
+   },
+   "DIVIDEND": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 11
+   },
+   "EXEC_CHANGE": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.667,
+    "support": 4
+   },
+   "FINANCIAL_RESULT": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 3
+   },
+   "MATERIAL_INFO": {
+    "precision": 0.7,
+    "recall": 0.636,
+    "f1": 0.667,
+    "support": 11
+   },
+   "OTHER": {
+    "precision": 0.333,
+    "recall": 1.0,
+    "f1": 0.5,
+    "support": 2
+   },
+   "RARE_EVENT": {
+    "precision": 0.957,
+    "recall": 0.9,
+    "f1": 0.928,
+    "support": 50
+   },
+   "TRANSMISSION_REPORT": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 17
+   }
+  }
+ },
+ "type_test_v1": {
+  "accuracy": 0.796,
+  "macro_f1": 0.788,
+  "per_class": {
+   "AGM_EGM": {
+    "precision": 0.842,
+    "recall": 0.941,
+    "f1": 0.889,
+    "support": 17
+   },
+   "BOARD_MEETING": {
+    "precision": 1.0,
+    "recall": 0.895,
+    "f1": 0.944,
+    "support": 19
+   },
+   "BOOK_CLOSURE": {
+    "precision": 0.944,
+    "recall": 0.895,
+    "f1": 0.919,
+    "support": 19
+   },
+   "BUYBACK": {
+    "precision": 1.0,
+    "recall": 0.824,
+    "f1": 0.903,
+    "support": 17
+   },
+   "CORP_BRIEFING": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 19
+   },
+   "CREDIT_RATING": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 11
+   },
+   "DISCLOSURE_INTEREST": {
+    "precision": 0.882,
+    "recall": 0.5,
+    "f1": 0.638,
+    "support": 30
+   },
+   "DIVIDEND": {
+    "precision": 0.895,
+    "recall": 0.895,
+    "f1": 0.895,
+    "support": 19
+   },
+   "EXEC_CHANGE": {
+    "precision": 0.444,
+    "recall": 0.889,
+    "f1": 0.593,
+    "support": 9
+   },
+   "FINANCIAL_RESULT": {
+    "precision": 0.444,
+    "recall": 1.0,
+    "f1": 0.615,
+    "support": 8
+   },
+   "MATERIAL_INFO": {
+    "precision": 0.706,
+    "recall": 0.8,
+    "f1": 0.75,
+    "support": 15
+   },
+   "MERGER_ACQUISITION": {
+    "precision": 0.562,
+    "recall": 0.6,
+    "f1": 0.581,
+    "support": 15
+   },
+   "OTHER": {
+    "precision": 0.267,
+    "recall": 0.444,
+    "f1": 0.333,
+    "support": 9
+   },
+   "RIGHTS_ISSUE": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 14
+   },
+   "TRANSMISSION_REPORT": {
+    "precision": 1.0,
+    "recall": 0.621,
+    "f1": 0.766,
+    "support": 29
+   }
+  }
+ },
+ "type_test_v2": {
+  "accuracy": 0.896,
+  "macro_f1": 0.884,
+  "per_class": {
+   "AGM_EGM": {
+    "precision": 0.889,
+    "recall": 0.941,
+    "f1": 0.914,
+    "support": 17
+   },
+   "BOARD_MEETING": {
+    "precision": 1.0,
+    "recall": 0.947,
+    "f1": 0.973,
+    "support": 19
+   },
+   "BOOK_CLOSURE": {
+    "precision": 0.947,
+    "recall": 0.947,
+    "f1": 0.947,
+    "support": 19
+   },
+   "BUYBACK": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 17
+   },
+   "CORP_BRIEFING": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 19
+   },
+   "CREDIT_RATING": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 11
+   },
+   "DISCLOSURE_INTEREST": {
+    "precision": 0.929,
+    "recall": 0.867,
+    "f1": 0.897,
+    "support": 30
+   },
+   "DIVIDEND": {
+    "precision": 0.895,
+    "recall": 0.895,
+    "f1": 0.895,
+    "support": 19
+   },
+   "EXEC_CHANGE": {
+    "precision": 1.0,
+    "recall": 0.889,
+    "f1": 0.941,
+    "support": 9
+   },
+   "FINANCIAL_RESULT": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 8
+   },
+   "MATERIAL_INFO": {
+    "precision": 0.706,
+    "recall": 0.8,
+    "f1": 0.75,
+    "support": 15
+   },
+   "MERGER_ACQUISITION": {
+    "precision": 0.643,
+    "recall": 0.6,
+    "f1": 0.621,
+    "support": 15
+   },
+   "OTHER": {
+    "precision": 0.333,
+    "recall": 0.444,
+    "f1": 0.381,
+    "support": 9
+   },
+   "RIGHTS_ISSUE": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 14
+   },
+   "TRANSMISSION_REPORT": {
+    "precision": 0.964,
+    "recall": 0.931,
+    "f1": 0.947,
+    "support": 29
+   }
+  }
+ },
+ "forecast_test_v2": {
+  "accuracy": 0.9,
+  "macro_f1": 0.875,
+  "per_class": {
+   "AGM_EGM": {
+    "precision": 0.889,
+    "recall": 0.941,
+    "f1": 0.914,
+    "support": 17
+   },
+   "BOARD_MEETING": {
+    "precision": 1.0,
+    "recall": 0.947,
+    "f1": 0.973,
+    "support": 19
+   },
+   "CORP_BRIEFING": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 19
+   },
+   "DISCLOSURE_INTEREST": {
+    "precision": 0.929,
+    "recall": 0.867,
+    "f1": 0.897,
+    "support": 30
+   },
+   "DIVIDEND": {
+    "precision": 0.895,
+    "recall": 0.895,
+    "f1": 0.895,
+    "support": 19
+   },
+   "EXEC_CHANGE": {
+    "precision": 1.0,
+    "recall": 0.889,
+    "f1": 0.941,
+    "support": 9
+   },
+   "FINANCIAL_RESULT": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "support": 8
+   },
+   "MATERIAL_INFO": {
+    "precision": 0.706,
+    "recall": 0.8,
+    "f1": 0.75,
+    "support": 15
+   },
+   "OTHER": {
+    "precision": 0.333,
+    "recall": 0.444,
+    "f1": 0.381,
+    "support": 9
+   },
+   "RARE_EVENT": {
+    "precision": 0.933,
+    "recall": 0.921,
+    "f1": 0.927,
+    "support": 76
+   },
+   "TRANSMISSION_REPORT": {
+    "precision": 0.964,
+    "recall": 0.931,
+    "f1": 0.947,
+    "support": 29
+   }
+  }
+ },
+ "agreement_dev": {
+  "title_eq_llm": 0.927
+ },
+ "agreement_test": {
+  "title_eq_llm": 0.896
+ },
+ "agreement_all": {
+  "title_eq_llm": 0.907
+ },
+ "details_dev": {
+  "EXEC_CHANGE": {
+   "n_docs": 4,
+   "fields": {
+    "person": {
+     "precision": 1.0,
+     "recall": 0.833,
+     "f1": 0.909,
+     "tp": 5,
+     "fp": 0,
+     "fn": 1
+    },
+    "person+role+action": {
+     "precision": 0.4,
+     "recall": 0.333,
+     "f1": 0.364,
+     "tp": 2,
+     "fp": 3,
+     "fn": 4
+    }
+   }
+  },
+  "DIVIDEND": {
+   "n_docs": 11,
+   "fields": {
+    "kind": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "tp": 11,
+     "fp": 0,
+     "fn": 0
+    },
+    "amount": {
+     "precision": 0.9,
+     "recall": 0.9,
+     "f1": 0.9,
+     "tp": 9,
+     "fp": 1,
+     "fn": 1
+    },
+    "unit": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "tp": 10,
+     "fp": 0,
+     "fn": 0
+    },
+    "period": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "tp": 11,
+     "fp": 0,
+     "fn": 0
+    },
+    "fiscal_year": {
+     "precision": 1.0,
+     "recall": 0.875,
+     "f1": 0.933,
+     "tp": 7,
+     "fp": 0,
+     "fn": 1
+    }
+   }
+  },
+  "MERGER_ACQUISITION": {
+   "n_docs": 13,
+   "fields": {
+    "counterparty": {
+     "precision": 0.2,
+     "recall": 0.167,
+     "f1": 0.182,
+     "tp": 2,
+     "fp": 8,
+     "fn": 10
+    },
+    "kind": {
+     "precision": 0.923,
+     "recall": 0.923,
+     "f1": 0.923,
+     "tp": 12,
+     "fp": 1,
+     "fn": 1
+    },
+    "stake_pct": {
+     "precision": 0.75,
+     "recall": 0.3,
+     "f1": 0.429,
+     "tp": 3,
+     "fp": 1,
+     "fn": 7
+    }
+   }
+  }
+ },
+ "details_test": {
+  "EXEC_CHANGE": {
+   "n_docs": 9,
+   "fields": {
+    "person": {
+     "precision": 0.846,
+     "recall": 0.524,
+     "f1": 0.647,
+     "tp": 11,
+     "fp": 2,
+     "fn": 10
+    },
+    "person+role+action": {
+     "precision": 0.692,
+     "recall": 0.429,
+     "f1": 0.529,
+     "tp": 9,
+     "fp": 4,
+     "fn": 12
+    }
+   }
+  },
+  "DIVIDEND": {
+   "n_docs": 19,
+   "fields": {
+    "kind": {
+     "precision": 1.0,
+     "recall": 1.0,
+     "f1": 1.0,
+     "tp": 19,
+     "fp": 0,
+     "fn": 0
+    },
+    "amount": {
+     "precision": 0.941,
+     "recall": 0.889,
+     "f1": 0.914,
+     "tp": 16,
+     "fp": 1,
+     "fn": 2
+    },
+    "unit": {
+     "precision": 1.0,
+     "recall": 0.944,
+     "f1": 0.971,
+     "tp": 17,
+     "fp": 0,
+     "fn": 1
+    },
+    "period": {
+     "precision": 1.0,
+     "recall": 0.944,
+     "f1": 0.971,
+     "tp": 17,
+     "fp": 0,
+     "fn": 1
+    },
+    "fiscal_year": {
+     "precision": 0.8,
+     "recall": 0.857,
+     "f1": 0.828,
+     "tp": 12,
+     "fp": 3,
+     "fn": 2
+    }
+   }
+  },
+  "MERGER_ACQUISITION": {
+   "n_docs": 15,
+   "fields": {
+    "counterparty": {
+     "precision": 0.385,
+     "recall": 0.333,
+     "f1": 0.357,
+     "tp": 5,
+     "fp": 8,
+     "fn": 10
+    },
+    "kind": {
+     "precision": 1.0,
+     "recall": 0.933,
+     "f1": 0.966,
+     "tp": 14,
+     "fp": 0,
+     "fn": 1
+    },
+    "stake_pct": {
+     "precision": 0.667,
+     "recall": 0.444,
+     "f1": 0.533,
+     "tp": 4,
+     "fp": 2,
+     "fn": 5
+    }
+   }
+  }
+ },
+ "ocr": {
+  "n_pages": 66,
+  "cer_median": 0.2582,
+  "cer_nospace_median": 0.2305,
+  "word_recall_median": 0.972,
+  "word_recall_p10": 0.8798,
+  "share_word_recall_above_95pct": 0.682,
+  "worst": [
+   {
+    "doc_id": "279234",
+    "cer": 0.5252,
+    "cer_nospace": 0.4882,
+    "word_recall": 0.7451
+   },
+   {
+    "doc_id": "255750",
+    "cer": 0.6218,
+    "cer_nospace": 0.5968,
+    "word_recall": 0.7544
+   },
+   {
+    "doc_id": "206841",
+    "cer": 0.4553,
+    "cer_nospace": 0.4705,
+    "word_recall": 0.7797
+   },
+   {
+    "doc_id": "128821",
+    "cer": 0.4167,
+    "cer_nospace": 0.4184,
+    "word_recall": 0.8167
+   },
+   {
+    "doc_id": "128032",
+    "cer": 0.1989,
+    "cer_nospace": 0.1506,
+    "word_recall": 0.878
+   }
+  ]
+ },
+ "confusions_test_v2": [
+  {
+   "gold_type": "MERGER_ACQUISITION",
+   "tagger_v2": "MATERIAL_INFO",
+   "n": 3
+  },
+  {
+   "gold_type": "MATERIAL_INFO",
+   "tagger_v2": "MERGER_ACQUISITION",
+   "n": 3
+  },
+  {
+   "gold_type": "OTHER",
+   "tagger_v2": "DIVIDEND",
+   "n": 2
+  },
+  {
+   "gold_type": "TRANSMISSION_REPORT",
+   "tagger_v2": "OTHER",
+   "n": 2
+  },
+  {
+   "gold_type": "DIVIDEND",
+   "tagger_v2": "OTHER",
+   "n": 2
+  },
+  {
+   "gold_type": "DISCLOSURE_INTEREST",
+   "tagger_v2": "OTHER",
+   "n": 2
+  },
+  {
+   "gold_type": "BOARD_MEETING",
+   "tagger_v2": "OTHER",
+   "n": 1
+  },
+  {
+   "gold_type": "AGM_EGM",
+   "tagger_v2": "MATERIAL_INFO",
+   "n": 1
+  },
+  {
+   "gold_type": "DISCLOSURE_INTEREST",
+   "tagger_v2": "MERGER_ACQUISITION",
+   "n": 1
+  },
+  {
+   "gold_type": "BOOK_CLOSURE",
+   "tagger_v2": "MERGER_ACQUISITION",
+   "n": 1
+  },
+  {
+   "gold_type": "MERGER_ACQUISITION",
+   "tagger_v2": "AGM_EGM",
+   "n": 1
+  },
+  {
+   "gold_type": "EXEC_CHANGE",
+   "tagger_v2": "AGM_EGM",
+   "n": 1
+  },
+  {
+   "gold_type": "DISCLOSURE_INTEREST",
+   "tagger_v2": "MATERIAL_INFO",
+   "n": 1
+  },
+  {
+   "gold_type": "MERGER_ACQUISITION",
+   "tagger_v2": "DISCLOSURE_INTEREST",
+   "n": 1
+  },
+  {
+   "gold_type": "OTHER",
+   "tagger_v2": "BOOK_CLOSURE",
+   "n": 1
+  }
+ ]
+}

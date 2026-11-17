@@ -1,0 +1,31 @@
+{
+ "doc_id": "123018",
+ "n_pages_total": 3,
+ "n_pages_read": 3,
+ "pages": [
+  {
+   "page": 1,
+   "embedded_text": "",
+   "ocr_text": "MCB\nBankforLife\nSE-100(5F)2018/96\nNovember29,2018\nTheGeneralManager\nPakistanStockExchangeLimited\nStockExchangeBuilding\nStockExchangeRoad\nKarachi\nDearSir,\nBOOKCLOSURE-NINTHREDEMPTIONOFMCBTFC2ISSUE\nTEXTOFADVERTISEMENT\nWeareenclosingherewithtextof an advertisementonBookClosureforgthProfitPayment\n/RedemptionofMcBTFC2issue,tobepublishedinDailyBusinessRecorderand theDaily\nJang(both in English and Urdu Languages) on December 05,2018.\nThisisforyourinformationandrecord.\nYourstruly\nFidaAliMirza\nCompanySecretary\nEncl:Asabove\nMCBBankLimited\nRegistered Office:MCB Building,15-Main Gulberg,Lahore-Pakistan,UAN:+92-42-111-000-111,Website:www.mcb.con\nCompanySecretaryOffice:6thFloor,MCBBuilding,15-MainGulberg,Lahore-Pakistan.Ph:+92-42-36041621Fax:+92-42-35776",
+   "ocr_conf_mean": 0.9844,
+   "ocr_conf_min": 0.9511,
+   "n_lines": 23
+  },
+  {
+   "page": 2,
+   "embedded_text": "",
+   "ocr_text": "NOTICE OF BOOK CLOSURE FOR PROFIT\nMCB Bank Limited\nPAYMENT/REDEMPTIONOF9THINSTALLMENT\nOF MCBTFC2 ISSUE DATED JUNE 19, 2014\nNinth profit  payment /  redemption  of Term\nFinance Certificates (\"TFCs\") issue of MCB Bank\nLimited -TFC dated June 19, 2014 (\"MCBTFC2\")\nare due on December 19, 2018. The transfer\nbooks pertaining to this issue shall remain closed\nfrom December 12, 2018 to December 19, 2018\n(both days inclusive). Requests for transfers\nreceived by the Bank's Transfer Agent, M/s. THK\nAssociates (Pvt.) Limited at 1st Floor, 40-C,\nBlock-6, PECHS, Karachi, Tel: (+9221)111-000-322\nby the close of business on December 11, 2018\nwill be treated as in time for the purpose of the\nsubject entitlement.\nTFC holders are requested to intimate change of\naddress, if any, to the Bank's Transfer Agent\nimmediately.\nFidaAliMirza\nCompanySecretary\nMCB\nLahore\nDecember 05,2018\nBank for Life",
+   "ocr_conf_mean": 0.9815,
+   "ocr_conf_min": 0.9363,
+   "n_lines": 26
+  },
+  {
+   "page": 3,
+   "embedded_text": "",
+   "ocr_text": "MCB BankLimited\n201419MCBTFC2\n201819\n)201819201812()\n2081\n40\n(+9221)111-000-32256\n—B\nTFC\nMCB\n2018.505\nBankforLife",
+   "ocr_conf_mean": 0.842,
+   "ocr_conf_min": 0.5801,
+   "n_lines": 12
+  }
+ ]
+}

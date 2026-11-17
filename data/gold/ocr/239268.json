@@ -1,0 +1,32 @@
+{
+ "doc_id": "239268",
+ "n_pages_total": 20,
+ "n_pages_read": 3,
+ "pages": [
+  {
+   "page": 1,
+   "embedded_text": "First Habib Modaraba\nCorporate Briefing Session \n2023-24",
+   "ocr_text": "First Habib Modaraba\nFirst Habib Modaraba\nCorporate Briefing Session\n2023-24",
+   "ocr_conf_mean": 0.9785,
+   "ocr_conf_min": 0.9465,
+   "n_lines": 4
+  },
+  {
+   "page": 2,
+   "embedded_text": "\nModaraba’s Profile\n\nOperational Activities\n\nSignificant Developments\n\nFinancial Information\n\nAwards and Ratings Update\n\nFuture Outlook\n\nQ & A Session\nPresentation Outline",
+   "ocr_text": "Presentation Outline\nModaraba's Profile\nOperational Activities\nSignificant Developments\nFinancial Information\nAwards and Ratings Update\nFuture Outlook\nQ & A Session",
+   "ocr_conf_mean": 0.9858,
+   "ocr_conf_min": 0.9658,
+   "n_lines": 8
+  },
+  {
+   "page": 3,
+   "embedded_text": "Brief profile of First Habib Modaraba\nFirst Habib Modaraba (FHM) a subsidiary of Habib Metropolitan Bank, Limited, established in \n1985. FHM completed 39 years of successful business operation and maintained its longstanding \ndrive towards sustaining our position as leading Modaraba within NBFI and Modaraba sector of \nPakistan.\nWith a track record of excellent performance of more than 3 decades is the success story of \ndedication and commitment to provide the investors a sound and continuous return.\nOver the Years FHM has been continuously recognizing for its satisfactory results, good corporate \ngovernance, best report culture and sound and stable credit rating.\nOur commitment to enhance value for our stakeholders, driven though resilience of our business \nmodel and determination of our team members made us sound and leading Modaraba within the \nModaraba sector.",
+   "ocr_text": "",
+   "ocr_conf_mean": 0.0,
+   "ocr_conf_min": 0.0,
+   "n_lines": 0,
+   "ocr_skipped": true
+  }
+ ]
+}

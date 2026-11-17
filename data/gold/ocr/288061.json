@@ -1,0 +1,32 @@
+{
+ "doc_id": "288061",
+ "n_pages_total": 62,
+ "n_pages_read": 3,
+ "pages": [
+  {
+   "page": 1,
+   "embedded_text": "SUSTAINABLE\nOPERATIONS\nRESPONSIBLE\nGROWTH\nCLEANER\nFUTURE\nCondensed Interim Financial Statements\nFor the First Quarter Ended September 30, 2026\nUPGRADING FOR\nGROWTH &\nCLEANER FUTURE\nSUSTAINABLE",
+   "ocr_text": "AR L\nATTOCKREFINERYLIMITED\nUPGRADINGFOR\nSUSTAINABLE\nGROWTH&\nCLEANERFUTURE\n0000\nSUSTAINABLE\nRESPONSIBLE\nCLEANER\nOPERATIONS\nGROWTH\nFUTURE\nCondensed Interim Financial Statements\nFor the First Quarter Ended September 30, 2026",
+   "ocr_conf_mean": 0.9662,
+   "ocr_conf_min": 0.6924,
+   "n_lines": 15
+  },
+  {
+   "page": 2,
+   "embedded_text": "",
+   "ocr_text": "",
+   "ocr_conf_mean": 0.0,
+   "ocr_conf_min": 0.0,
+   "n_lines": 0
+  },
+  {
+   "page": 3,
+   "embedded_text": "1\nCONTENTS\n34\n35\n36\n37\n38\nCOMPANY INFORMATION\nDIRECTORS’ REVIEW REPORT\nCONDENSED INTERIM FINANCIAL STATEMENTS\n       Statement of Financial Position\n       Statement of Profit or Loss\n       Statement of Comprehensive Income\n       Statement of Changes in Equity\n       Statement of Cash Flows\n       Notes to the Financial Statements\nCONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS\n       Statement of Financial Position\n       Statement of Profit or Loss\n       Statement of Comprehensive Income\n       Statement of Changes in Equity\n       Statement of Cash Flows\n       Notes to the Financial Statements\n02\n03\n05\n06\n08\n09\n10\n11\n12\n32",
+   "ocr_text": "",
+   "ocr_conf_mean": 0.0,
+   "ocr_conf_min": 0.0,
+   "n_lines": 0,
+   "ocr_skipped": true
+  }
+ ]
+}

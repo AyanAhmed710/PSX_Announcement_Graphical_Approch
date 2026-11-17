@@ -1,0 +1,32 @@
+{
+ "doc_id": "274621",
+ "n_pages_total": 26,
+ "n_pages_read": 3,
+ "pages": [
+  {
+   "page": 1,
+   "embedded_text": "",
+   "ocr_text": "SAZGAR\nGOING FURTHER\nTOGETHER\nQUARTERLY\nFINANCIALSTATEMENTS\n(UNAUDITED)\nMARCH 31,2026",
+   "ocr_conf_mean": 0.9654,
+   "ocr_conf_min": 0.9055,
+   "n_lines": 7
+  },
+  {
+   "page": 2,
+   "embedded_text": "In the Name of Allah, the Most Gracious, the Most Merciful",
+   "ocr_text": "IntheNameofAllah,theMostGracious,theMostMerciful",
+   "ocr_conf_mean": 0.9869,
+   "ocr_conf_min": 0.9869,
+   "n_lines": 1
+  },
+  {
+   "page": 3,
+   "embedded_text": "TABLE OF \nCONTENTS \nQ1 Vision, Mission & Corporate Strategy \n02 Company Information \n04 Directors' Review \n10 Condensed Interim Statement of Financial Position \n11 Condensed Interim Statement of Profit or Loss \n12 Condensed Interim Statement of Comprehensive Income \n13 Condensed Interim Statement of Changes in Equity \n14 Condensed Interim Statement of Cash Flows \n15 Notes to the Condensed Interim Financial Statements",
+   "ocr_text": "",
+   "ocr_conf_mean": 0.0,
+   "ocr_conf_min": 0.0,
+   "n_lines": 0,
+   "ocr_skipped": true
+  }
+ ]
+}

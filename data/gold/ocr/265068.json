@@ -1,0 +1,32 @@
+{
+ "doc_id": "265068",
+ "n_pages_total": 38,
+ "n_pages_read": 3,
+ "pages": [
+  {
+   "page": 1,
+   "embedded_text": "3rd Quarter Accounts (Un-audited)\nFor the Period Ended \nMarch 31, 2025",
+   "ocr_text": "NORTH\nSUI NORTHERN GAS PIPELINES LIMITED\n3rd Quarter Accounts (Un-audited)\nFor the Period Ended\nMarch 31, 2025\nHISTORIC PROFITS,SHARED SUCCESS:\nAYEAROFCOLLECTIVEACHIEVEMENT...",
+   "ocr_conf_mean": 0.9721,
+   "ocr_conf_min": 0.944,
+   "n_lines": 7
+  },
+  {
+   "page": 2,
+   "embedded_text": "",
+   "ocr_text": "",
+   "ocr_conf_mean": 0.0,
+   "ocr_conf_min": 0.0,
+   "n_lines": 0
+  },
+  {
+   "page": 3,
+   "embedded_text": "Sui Northern Gas Pipelines Limited\n01\nContents\nCorporate Information\nDirectors’ Review\nCondensed Interim Statement of Financial Position\nCondensed Interim Statement of Profit or Loss \nCondensed Interim Statement of Comprehensive Income\nCondensed Interim Statement of Cash Flows \nCondensed Interim Statement of Changes in Equity\nSelected Notes to and Forming Part of the Condensed Interim \n   Financial Statements\nDirectors’ Review\n2\n3\n6\n7\n8\n9\n10\n11\n34",
+   "ocr_text": "",
+   "ocr_conf_mean": 0.0,
+   "ocr_conf_min": 0.0,
+   "n_lines": 0,
+   "ocr_skipped": true
+  }
+ ]
+}
